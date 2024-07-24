@@ -4,59 +4,33 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>RoboCupJunior OnStage</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      padding: 0;
-      background-color: #f7f7f7;
-      color: #333;
-    }
-    .container {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-      background-color: #fff;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-      border-radius: 5px;
-    }
-    h1, h2, h3 {
-      color: #133076;
-    }
-    h1 {
-      text-align: center;
-      margin-top: 0;
-    }
-    p {
-      text-align: justify;
-      margin-bottom: 15px;
-    }
-    ul {
-      list-style-type: none;
-      padding: 0;
-    }
-    li {
-      margin-bottom: 0px;
-    }
-    a {
-      color: #007bff;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/fontawesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/solid.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/brands.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/css/bootstrap.min.css">
 </head>
 <body>
-  <div class="container">
+  <input type="checkbox" class="sidebar-toggle" id="sidebar-toggle">
+  <label class="overlay" for="sidebar-toggle"></label>
+  
+  <div id="sidebar" class="sidebar">
+    <label class="closebtn" for="sidebar-toggle">&times;</label>
+    <a href="#general-information">General Information</a>
+    <a href="#rules-and-scoresheets">Rules and Scoresheets</a>
+    <a href="#resources">Resources</a>
+    <a href="#past-teams">Past Teams' Performances</a>
+    <a href="#contact">Contact</a>
+  </div>
+  
+  <div id="main-content" class="container">
     <h1>RoboCupJunior OnStage</h1>
     <p>This page lists various websites, documents, posters, videos, and other resources relevant for RoboCupJunior OnStage. It gathers everything useful in one place for everybody who wants to learn more.</p>
     
-    <h2>General information</h2>
+    <h2 id="general-information">General Information</h2>
     <p>General information about the RoboCupJunior OnStage League can be found on the official <a href="https://junior.robocup.org/onstage/" target="_blank">RoboCupJunior Website</a>.</p>
 
-    <h2>Rules and scoresheets</h2>
+    <h2 id="rules-and-scoresheets">Rules and Scoresheets</h2>
     <p>The OnStage rules are managed in a separate <a href="https://github.com/robocup-junior/onstage-rules/" target="_blank">GitHub repository</a>. Scoresheets are about to be migrated there soon. See the readme to find out more.</p>
     <p>The documents are available in a printable PDF format and as HTML version. Please also note the general RoboCupJunior rules.</p>
     
@@ -78,26 +52,38 @@
       <li><a href="Scoresheets/OnStage-Entry-ScoreSheets-2024.pdf" target="_blank">Entry-Scoresheets</a></li>
     </ul>
 
-    <h2>Ressources</h2>
-    <p>The following ressources will help you to participate in the OnStage League successfully.</p>
+    <h2 id="resources">Resources</h2>
+    <p>The following resources will help you to participate in the OnStage League successfully.</p>
     
     <ul>
       <li><a href="how-to-features.html" target="_blank">How to decide on your OnStage Robotic Features</a></li>
     </ul>
 
-    <h2>Past Teams' performances and documentation</h2>
-    <p>The pages provide insight into the performances of previous years teams as well as their rankings. They can be helpfull to get inspiration for your own work.</p>
+    <h2 id="past-teams">Past Teams' Performances and Documentation</h2>
+    <p>The pages provide insight into the performances of previous years teams as well as their rankings. They can be helpful to get inspiration for your own work.</p>
     
     <ul>
       <li><a href="RCJ-2023.html" target="_blank">RoboCup 2023 - Bordeaux, France</a></li>
       <li>...</li>
     </ul>
 
-    <h2>Questions and furter information</h2>
+    <h2 id="contact">Questions and Further Information</h2>
     <p>Feel free to contact the OnStage League committee through the <a href="https://junior.forum.robocup.org/c/robocupjunior-onstage" target="_blank">RoboCupJunior Forum</a>.</p>
-    
   </div>
 
-  <script src="https://hypothes.is/embed.js" async></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/js/bootstrap.bundle.min.js"></script>
+  <script>
+    function toggleSidebar() {
+      const sidebar = document.getElementById("sidebar");
+      const mainContent = document.getElementById("main-content");
+      if (sidebar.style.width === "250px") {
+        sidebar.style.width = "0";
+        mainContent.style.marginLeft = "0";
+      } else {
+        sidebar.style.width = "250px";
+        mainContent.style.marginLeft = "250px";
+      }
+    }
+  </script>
 </body>
 </html>

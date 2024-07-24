@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Team 1",
+        "country": "Country 1",
+        "image": "/_static/images/logo_onstage.png",
+        "poster": "/_static/competitions/rcj-2024/posters/O01.pdf",
+        "documentation": "https://github.com/robocup-junior/onstage",
+        "tdv": "https://youtu.be/yt13EQY4z2s",
+        "performance": "https://youtu.be/LHQeAtiA9WM"
+    },
+    {
+        "name": "Team 2",
+        "image": "",
+        "documentation": "https://github.com/robocup-junior/onstage",
+        "tdv": "https://youtu.be/yt13EQY4z2s",
+        "performance": "https://youtu.be/LHQeAtiA9WM"
+    },
+    {
+        "name": "Team 3",
+        "country": "Country 3",
+        "image": "/_static/competitions/rcj-2024/team-photos/O17.jpg",
+        "poster": "/_static/competitions/rcj-2024/posters/O02.pdf",
+        "documentation": "https://github.com/robocup-junior/onstage",
+        "tdv": "https://youtu.be/yt13EQY4z2s",
+        "performance": "https://youtu.be/LHQeAtiA9WM"
+    }
+]

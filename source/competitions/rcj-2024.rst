@@ -1,0 +1,13 @@
+RoboCup 2024 - Eindhoven (The Netherlands)
+==============================================
+
+
+Results
+-------
+
+Rankings (only those that get published during the award ceremony)
+
+Documentation and performances
+--------------------------------
+
+.. teams:: _static/competitions/rcj-2024/data.json

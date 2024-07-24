@@ -1,0 +1,16 @@
+/* custom.css */
+.image-text-container {
+    display: flex; /* Use flexbox to align items horizontally */
+    align-items: center; /* Center items vertically */
+    gap: 15px; /* Space between the image and text */
+}
+
+.responsive-image {
+    max-width: 100%; /* Ensure the image scales down with its container */
+    height: auto; /* Maintain aspect ratio */
+    pointer-events: none; /* Prevent image from being clickable */
+}
+
+.text-content {
+    flex: 1; /* Allow text to take up remaining space */
+}

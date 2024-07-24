@@ -1,0 +1,82 @@
+RoboCup 2023 - Bordeaux (France)
+==============================================
+
+
+Results
+-------
+
+Rankings (only those that get published during the award ceremony)
+
+Documentation and performances
+------------------------------
+
+
+Team 1
+~~~~~~
+
+  .. image:: /_static/competitions/rcj-2024/team-photos/O17.jpg
+   :align: left
+   :height: 250
+  
+  Country 1
+
+  `Poster </_static/competitions/rcj-2024/posters/O01.pdf>`_
+
+  `Documentation <https://github.com/robocup-junior/onstage>`_
+
+  `Technical Demonstration Video <https://youtu.be/yt13EQY4z2s>`_
+
+  `Performance <https://youtu.be/LHQeAtiA9WM>`_
+
+Team 2
+~~~~~~
+
+  .. image:: /_static/competitions/rcj-2024/team-photos/O17.jpg
+   :align: left
+   :height: 250
+  
+  Country 1
+
+  `Poster </_static/competitions/rcj-2024/posters/O01.pdf>`_
+
+  `Documentation <https://github.com/robocup-junior/onstage>`_
+
+  `Technical Demonstration Video <https://youtu.be/yt13EQY4z2s>`_
+
+  `Performance <https://youtu.be/LHQeAtiA9WM>`_
+
+Team 3
+~~~~~~
+
+  .. image:: /_static/competitions/rcj-2024/team-photos/O17.jpg
+   :align: left
+   :height: 250
+  
+  Country 1
+
+  `Poster </_static/competitions/rcj-2024/posters/O01.pdf>`_
+
+  `Documentation <https://github.com/robocup-junior/onstage>`_
+
+  `Technical Demonstration Video <https://youtu.be/yt13EQY4z2s>`_
+
+  `Performance <https://youtu.be/LHQeAtiA9WM>`_
+
+Team 4
+~~~~~~
+
+  .. image:: /_static/competitions/rcj-2024/team-photos/O17.jpg
+   :align: left
+   :height: 250
+  
+  Country 1
+
+  `Poster </_static/competitions/rcj-2024/posters/O01.pdf>`_
+
+  `Documentation <https://github.com/robocup-junior/onstage>`_
+
+  `Technical Demonstration Video <https://youtu.be/yt13EQY4z2s>`_
+
+  `Performance <https://youtu.be/LHQeAtiA9WM>`_
+
+  
