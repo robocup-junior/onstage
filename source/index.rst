@@ -4,13 +4,13 @@ RoboCupJunior OnStage
 
 .. toctree::
    :maxdepth: 1
-   :caption: Resources:
+   :caption: Resources
 
    resources/how-to-features
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Competitions:
+   :maxdepth: 1
+   :caption: Awards & Team Documentation
 
    competitions/rcj-2023
    competitions/rcj-2024

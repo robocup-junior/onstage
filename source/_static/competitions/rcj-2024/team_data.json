@@ -1,0 +1,86 @@
+[
+    {
+        "name": "BananaBots",
+        "country": "Slovakia",
+        "image": "/_static/images/O01.jpg",
+        "poster": "/_static/competitions/rcj-2024/posters/O01.pdf",
+        "documentation": "https://github.com/robocup-junior/onstage",
+        "tdv": "https://youtu.be/yt13EQY4z2s",
+        "performance": "https://youtu.be/LHQeAtiA9WM"
+    },
+    {
+        "name": "Team 2",
+        "image": "",
+        "documentation": "https://github.com/robocup-junior/onstage",
+        "tdv": "https://youtu.be/yt13EQY4z2s",
+        "performance": "https://youtu.be/LHQeAtiA9WM"
+    },
+    {
+        "name": "Team 3",
+        "country": "Country 3",
+        "image": "/_static/competitions/rcj-2024/team-photos/O17.jpg",
+        "poster": "/_static/competitions/rcj-2024/posters/O02.pdf",
+        "documentation": "https://github.com/robocup-junior/onstage",
+        "tdv": "https://youtu.be/yt13EQY4z2s",
+        "performance": "https://youtu.be/LHQeAtiA9WM"
+    },
+    {
+        "name": "Team 4",
+        "country": "Country 3",
+        "image": "/_static/competitions/rcj-2024/team-photos/O17.jpg",
+        "poster": "/_static/competitions/rcj-2024/posters/O02.pdf",
+        "documentation": "https://github.com/robocup-junior/onstage",
+        "tdv": "https://youtu.be/yt13EQY4z2s",
+        "performance": "https://youtu.be/LHQeAtiA9WM"
+    },
+    {
+        "name": "Team 5",
+        "image": "",
+        "documentation": "https://github.com/robocup-junior/onstage",
+        "tdv": "https://youtu.be/yt13EQY4z2s",
+        "performance": "https://youtu.be/LHQeAtiA9WM"
+    },
+    {
+        "name": "Team 6",
+        "image": "",
+        "documentation": "https://github.com/robocup-junior/onstage",
+        "tdv": "https://youtu.be/yt13EQY4z2s",
+        "performance": "https://youtu.be/LHQeAtiA9WM"
+    },
+    {
+        "name": "Team 7",
+        "country": "Country 3",
+        "image": "/_static/competitions/rcj-2024/team-photos/O17.jpg",
+        "poster": "/_static/competitions/rcj-2024/posters/O02.pdf",
+        "documentation": "https://github.com/robocup-junior/onstage",
+        "tdv": "https://youtu.be/yt13EQY4z2s",
+        "performance": "https://youtu.be/LHQeAtiA9WM"
+    },
+    {
+        "name": "Team 8",
+        "country": "Country 3",
+        "image": "/_static/competitions/rcj-2024/team-photos/O17.jpg",
+        "poster": "/_static/competitions/rcj-2024/posters/O02.pdf",
+        "documentation": "https://github.com/robocup-junior/onstage",
+        "tdv": "https://youtu.be/yt13EQY4z2s",
+        "performance": "https://youtu.be/LHQeAtiA9WM"
+    },
+    {
+        "name": "Team 9",
+        "country": "Country 3",
+        "image": "/_static/competitions/rcj-2024/team-photos/O17.jpg",
+        "poster": "/_static/competitions/rcj-2024/posters/O02.pdf",
+        "documentation": "https://github.com/robocup-junior/onstage",
+        "tdv": "https://youtu.be/yt13EQY4z2s",
+        "performance": "https://youtu.be/LHQeAtiA9WM"
+    },
+    {
+        "name": "Team 10",
+        "country": "Country 3",
+        "image": "/_static/competitions/rcj-2024/team-photos/O17.jpg",
+        "poster": "/_static/competitions/rcj-2024/posters/O02.pdf",
+        "documentation": "https://github.com/robocup-junior/onstage",
+        "tdv": "https://youtu.be/yt13EQY4z2s",
+        "performance": "https://youtu.be/LHQeAtiA9WM"
+    }
+]
