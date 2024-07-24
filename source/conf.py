@@ -44,7 +44,7 @@ html_theme = 'sphinx_book_theme'
 html_static_path = ['_static']
 html_logo = "_static/images/logo_onstage.png"
 html_title = "RoboCupJunior OnStage"
-# html_favicon = "_static/logo_onstage.svg"
+html_favicon = "_static/images/onstage_favicon.png"
 html_css_files = [
     'custom.css',
 ]
