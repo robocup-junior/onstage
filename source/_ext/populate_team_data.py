@@ -51,12 +51,9 @@ class PopulateTeams(SphinxDirective):
 
                 if team.get('country'):
                     content.append(f"  **{team['country']}**\n")
-    
-                poster_path = team['poster']
-                abs_poster_path = os.path.abspath(os.path.join(self.env.srcdir, poster_path))
 
-                if team.get('poster') and os.path.exists(abs_poster_path):
-                    content.append(f"  `Poster </{poster_path}>`_\n")
+                if team.get('poster'):
+                    content.append(f"  `Poster <{team['poster']}>`_\n")
     
                 if team.get('documentation'):
                     content.append(f"  `Documentation <{team['documentation']}>`_\n")

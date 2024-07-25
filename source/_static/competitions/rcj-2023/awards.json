@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Individual Team 1st Place",
+        "team": "Yes, correct, all right"
+    },
+    {
+        "name": "Individual Team 2nd Place",
+        "team": "I Pedoci"
+    },
+    {
+        "name": "Individual Team 3rd Place",
+        "team": "Momentum Robotics - OnStage"
+    },
+    {
+        "name": "Best Stage Performance",
+        "team": "All is well"
+    },
+    {
+        "name": "Best Technical Interview",
+        "team": "Seventronics"
+    },
+    {
+        "name": "Best Technical Demonstration Video",
+        "team": "AURAT"
+    },
+    {
+        "name": "Best Technical Description Poster",
+        "team": "GENERATION BOTS"
+    },
+    {
+        "name": "Best Feature Integration",
+        "team": "Molibdenio 42"
+    },
+    {
+        "name": "Le coup de Coeur",
+        "team": "T.I.S"
+    }
+]
