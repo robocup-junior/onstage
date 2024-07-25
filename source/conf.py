@@ -28,6 +28,7 @@ release = 'v0.1.0'
 
 extensions = [
     "sphinx_toolbox.collapse",
+    "sphinxcontrib.youtube",
     "sphinx_new_tab_link",
     'populate_team_data'
 ]
