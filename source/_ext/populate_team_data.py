@@ -20,7 +20,7 @@ class PopulateTeams(SphinxDirective):
         # Load JSON data
         try:
             with open(json_path, 'r', encoding='utf-8') as file:
-                teams = json.load(file)
+                data = json.load(file)
         except Exception as e:
             error = self.state_machine.reporter.error(
                 f"Failed to load JSON file {json_path}: {str(e)}",
@@ -32,7 +32,7 @@ class PopulateTeams(SphinxDirective):
         # Container for the team information
         content = []
 
-        for team in teams:
+        for team in data['teams']:
             if team.get('name'):
                 team_label = team['name'].replace(' ', '_')
 
@@ -101,7 +101,7 @@ class PopulateAwards(SphinxDirective):
         # Load JSON data
         try:
             with open(json_path, 'r', encoding='utf-8') as file:
-                awards = json.load(file)
+                data = json.load(file)
         except Exception as e:
             error = self.state_machine.reporter.error(
                 f"Failed to load JSON file {json_path}: {str(e)}",
@@ -113,7 +113,7 @@ class PopulateAwards(SphinxDirective):
         # Container for the team information
         content = []
 
-        for award in awards:
+        for award in data['awards']:
             if award.get('name'):
                 team_label = award['team'].replace(' ', '_')
 

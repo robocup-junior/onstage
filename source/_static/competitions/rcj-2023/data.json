@@ -1,0 +1,252 @@
+{
+    "teams":[
+        {
+            "name": "ACE",
+            "country": "Taiwan (Province of China)",
+            "image": "_static/competitions/rcj-2023/team-photos/O01.jpg",
+            "poster": "https://drive.google.com/file/d/1FxFkawNFJeCqxCRCjC2Ls347rYA8oNnW/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/PzvSXFBWpq8",
+            "performance": "https://youtu.be/ZxefpC4YPEI"
+        },
+        {
+            "name": "All is well",
+            "country": "Taiwan (Province of China)",
+            "image": "_static/competitions/rcj-2023/team-photos/O02.jpg",
+            "poster": "https://drive.google.com/file/d/137cLyZhiMsYW0N1e4yxt_mZbh6k0wPRe/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/xTPdMcLxx8E",
+            "performance": "https://youtu.be/Q-lofAwr2ZA"
+        },
+        {
+            "name": "Merinda",
+            "country": "Kazakhstan",
+            "image": "_static/competitions/rcj-2023/team-photos/O03.jpg",
+            "poster": "https://drive.google.com/file/d/1i_p1qAnnE0jZTfIcg3GT_jIFFrB_u7zP/preview",
+            "documentation": "https://github.com/Kreichik/Merinda",
+            "tdv": "https://youtu.be/82U_FBIYPfU",
+            "performance": "https://youtu.be/1W7TcbaLeNc"
+        },
+        {
+            "name": "Robot Encanto",
+            "country": "Panama",
+            "image": "_static/competitions/rcj-2023/team-photos/O04.jpg",
+            "poster": "https://drive.google.com/file/d/1zcZY8uNOnc1PFi1ysX1bovL2fif0MsBI/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/2_ASl3bJh68",
+            "performance": "https://youtu.be/0V4qJzuXt4A"
+        },
+        {
+            "name": "Yes, correct, all right",
+            "country": "China",
+            "image": "_static/competitions/rcj-2023/team-photos/O05.jpg",
+            "poster": "https://drive.google.com/file/d/1g0eRYMNYPLHpcKZ2ChWA_PXFOrX3Bb32/preview",
+            "documentation": "https://github.com/xialbm/robocup2023/",
+            "tdv": "https://youtu.be/sVDjgbLMEO8",
+            "performance": "https://youtu.be/ExG_YykFDRM"
+        },
+        {
+            "name": "AURAT",
+            "country": "Italy",
+            "image": "_static/competitions/rcj-2023/team-photos/O06.jpg",
+            "poster": "https://drive.google.com/file/d/12rSgX6IyQZYOvKSA5IIwqH_wUmlgF_RU/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/7CwFQTCKVt8",
+            "performance": "https://youtu.be/RNpr4TEm8nI"
+        },
+        {
+            "name": "Ben Dover",
+            "country": "Slovakia",
+            "image": "_static/competitions/rcj-2023/team-photos/O07.jpg",
+            "poster": "https://drive.google.com/file/d/13Mb_Gc5fpAHPjseTTG92JRhmsmC0T7uq/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/s3YuQv0SoIg",
+            "performance": "https://youtu.be/CekFPQGlrq8"
+        },
+        {
+            "name": "GENERATION BOTS",
+            "country": "Canada",
+            "image": "_static/competitions/rcj-2023/team-photos/O08.jpg",
+            "poster": "https://drive.google.com/file/d/1bGOp_COYwkTnb4TxuWAJfQl01ljyXt3o/preview",
+            "documentation": "https://github.com/AdrianaDi23/GenerationBot.git",
+            "tdv": "https://youtu.be/LUya2xs9gTk",
+            "performance": "https://youtu.be/tMoAAYbLtZw"
+        },
+        {
+            "name": "HU-More Bot",
+            "country": "Hungary",
+            "image": "_static/competitions/rcj-2023/team-photos/O09.jpg",
+            "poster": "https://drive.google.com/file/d/1s6PqFMn4rZrvYo8OxdGiq_B8iUk0fQRp/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/pp8QUkQbKLU",
+            "performance": "https://youtu.be/vMLxVDv5heY"
+        },
+        {
+            "name": "I Pedoci",
+            "country": "Italy",
+            "image": "_static/competitions/rcj-2023/team-photos/O10.jpg",
+            "poster": "https://drive.google.com/file/d/1FR0OowGJ-Va6Wnlwaghq8zPvK9E8xc3x/preview",
+            "documentation": "https://github.com/edoardo21332/RC_Ped",
+            "tdv": "https://youtu.be/8qgj6C-4Taw",
+            "performance": "https://youtu.be/ktDaHua7E8I"
+        },
+        {
+            "name": "Future Experience (Jurassic Boys)",
+            "country": "Republic of Korea",
+            "image": "_static/competitions/rcj-2023/team-photos/O11.jpg",
+            "poster": "https://drive.google.com/file/d/1KTDlmUikdJlDsxvmEKnhJp2cbTr_DOPJ/preview",
+            "documentation": "https://github.com/gurilc/robocup2023_onstage/",
+            "tdv": "https://youtu.be/l2SIM6ZU3A0",
+            "performance": "https://youtu.be/qcBYiotrBrE"
+        },
+        {
+            "name": "Kawasemi3",
+            "country": "Japan",
+            "image": "_static/competitions/rcj-2023/team-photos/O12.jpg",
+            "poster": "https://drive.google.com/file/d/1NmStN9MLcZFGG1DGCUBPbZ6DF3RnTYo3/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/e_vbhWQeQzk",
+            "performance": "https://youtu.be/86jVoi91qQU"
+        },
+        {
+            "name": "Molibdenio 42",
+            "country": "Brazil",
+            "image": "_static/competitions/rcj-2023/team-photos/O13.jpg",
+            "poster": "https://drive.google.com/file/d/1Y4GttQQumFlaI_-xAkySi1h8SaCDnxJG/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/8J25BpSSirM",
+            "performance": "https://youtu.be/h4-r42044qA"
+        },
+        {
+            "name": "Momentum Robotics - OnStage",
+            "country": "Brazil",
+            "image": "_static/competitions/rcj-2023/team-photos/O14.jpg",
+            "poster": "https://drive.google.com/file/d/1374SPI6Duy6rGQEll8bQeT0hX-By6ZVj/preview",
+            "documentation": "https://github.com/gabrielPedrozaRobotics/momentumOnStage2023",
+            "tdv": "https://youtu.be/oB1SdVqWqsE",
+            "performance": "https://youtu.be/xKaqPjE1E5E"
+        },
+        {
+            "name": "Team Perry (Secret Agent)",
+            "country": "Israel",
+            "image": "_static/competitions/rcj-2023/team-photos/O15.jpg",
+            "poster": "https://drive.google.com/file/d/1o-ZyQYqkoEiqWFPJSqsjW1N2BBp_dLyt/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/of5p7Js1R0c",
+            "performance": "https://youtu.be/hX2Oh0ycKLY"
+        },
+        {
+            "name": "T.I.S",
+            "country": "Iran",
+            "image": "_static/competitions/rcj-2023/team-photos/O16.jpg",
+            "poster": "https://drive.google.com/file/d/1SJ-dnACtFIRdBsZtpVVRWZhFqjmSFiQm/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/rVJKT9EzAPI",
+            "performance": "https://youtu.be/lAdidM5-yLg"
+        },
+        {
+            "name": "Team Mars",
+            "country": "Germany",
+            "image": "_static/competitions/rcj-2023/team-photos/O17.jpg",
+            "poster": "https://drive.google.com/file/d/1RWVFQN9a-_LuMQxnvQwIzSasZfHbvNTi/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/S-JMF2EvJmQ",
+            "performance": "https://youtu.be/M-TA9jcE-4s"
+        },
+        {
+            "name": "LinkingBot",
+            "country": "Portugal",
+            "image": "_static/competitions/rcj-2023/team-photos/O18.jpg",
+            "poster": "https://drive.google.com/file/d/1Kr75P72ZkChxNYMred59NDivkd6DyZ4x/preview",
+            "documentation": "https://github.com/RobertoValente/LinkingBot",
+            "tdv": "https://youtu.be/pwPNmFuuGtI",
+            "performance": "https://youtu.be/RDFQXPADjnY"
+        },
+        {
+            "name": "E=MC2GEYTER",
+            "country": "France",
+            "image": "_static/competitions/rcj-2023/team-photos/O19.jpg",
+            "poster": "https://drive.google.com/file/d/1El8Znw7q4UlxG1v5urHcwvCU92-bLdvi/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/nJ-sk263tFI",
+            "performance": "https://youtu.be/T8vUNgdpsGQ"
+        },
+        {
+            "name": "Freeware Friends",
+            "country": "India",
+            "image": "_static/competitions/rcj-2023/team-photos/O20.jpg",
+            "poster": "https://drive.google.com/file/d/10e_2h0kISbqrJsFveqwovYEHSLaMRl1m/preview",
+            "documentation": "https://github.com/Tetraslam/RCJ-Bordeaux",
+            "tdv": "https://youtu.be/w2eYkVmppHQ",
+            "performance": "https://youtu.be/B1Gn0u4f1kA"
+        },
+        {
+            "name": "Power Splitters",
+            "country": "Croatia",
+            "image": "_static/competitions/rcj-2023/team-photos/O21.jpg",
+            "poster": "https://drive.google.com/file/d/19ALfIA8g9LoHZ6diASGZu1r0QVpscB92/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/lh5tj7IR_Ss",
+            "performance": "https://youtu.be/XZdb0-r5oDI"
+        },
+        {
+            "name": "Seventronics",
+            "country": "Mexico",
+            "image": "_static/competitions/rcj-2023/team-photos/O22.jpg",
+            "poster": "https://drive.google.com/file/d/156XkWtGtZ5Tsa4je2WGqGubXMV9d4svk/preview",
+            "documentation": "https://github.com/LGSC1234/Onstage2023",
+            "tdv": "https://youtu.be/ku64s3-1K-g",
+            "performance": "https://youtu.be/CVNwjID_Bxk"
+        }
+    ],
+    "awards":[
+        {
+            "name": "Individual Team 1st Place",
+            "team": "Yes, correct, all right"
+        },
+        {
+            "name": "Individual Team 2nd Place",
+            "team": "I Pedoci"
+        },
+        {
+            "name": "Individual Team 3rd Place",
+            "team": "Momentum Robotics - OnStage"
+        },
+        {
+            "name": "Best Stage Performance",
+            "team": "All is well"
+        },
+        {
+            "name": "Best Technical Interview",
+            "team": "Seventronics"
+        },
+        {
+            "name": "Best Technical Demonstration Video",
+            "team": "AURAT"
+        },
+        {
+            "name": "Best Technical Description Poster",
+            "team": "GENERATION BOTS"
+        },
+        {
+            "name": "Best Feature Integration",
+            "team": "Molibdenio 42"
+        },
+        {
+            "name": "Le coup de Coeur",
+            "team": "T.I.S"
+        }
+    ],
+    "superteams":[
+        {
+            "name": "Super Beez",
+            "team1": "BananaBots",
+            "country1": "Slovakia",
+            "team2": "Beasts",
+            "country2": "Egypt",
+            "team3": "Buff Bunny",
+            "county3": "Australia"
+        }
+    ],
+    "Superteam_award":"xyz"
+}
