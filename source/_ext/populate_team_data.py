@@ -53,21 +53,27 @@ class PopulateTeams(SphinxDirective):
                     content.append(f"  **{team['country']}**\n")
 
                 if team.get('poster'):
-                    content.append(f"  `Poster <{team['poster']}>`_\n")
+                    content.append(f"  `Poster <{team['poster']}>`__\n")
     
                 if team.get('documentation'):
-                    content.append(f"  `Documentation <{team['documentation']}>`_\n")
+                    content.append(f"  `Documentation <{team['documentation']}>`__\n")
     
                 if team.get('tdv'):
-                    content.append(f"  `Technical Demonstration Video <{team['tdv']}>`_\n")
+                    content.append(f"  `Technical Demonstration Video <{team['tdv']}>`__\n")
     
                 if team.get('performance'):
-                    content.append(f"  `Performance <{team['performance']}>`_\n")
+                    content.append(f"  `Performance <{team['performance']}>`__\n")
                 
                 content.append( "\n")
 
         # Parse the generated content as reStructuredText
         rst_content = "\n".join(content)
+
+        #To debug the output of the above commands:
+        #
+        # with open("output.rst", "w") as file:
+        #    # Step 3: Write the content to the file
+        #    file.write(rst_content)
 
         node = nodes.section()
         node.document = self.state.document
