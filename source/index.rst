@@ -12,8 +12,8 @@ RoboCupJunior OnStage
    :maxdepth: 1
    :caption: Awards & Team Documentation
 
-   competitions/rcj-2023
    competitions/rcj-2024
+   competitions/rcj-2023
 
 
 This page lists various websites, documents, posters, videos, and other resources relevant for RoboCupJunior OnStage. It gathers everything useful in one place for everybody who wants to learn more.
