@@ -4,6 +4,7 @@ from docutils import nodes
 from docutils.parsers.rst import Directive
 from sphinx.util.docutils import SphinxDirective
 
+
 class PopulateTeams(SphinxDirective):
     has_content = True
     required_arguments = 2  # Expect two arguments: the path to the JSON file + an ID to make sure references are unique
@@ -18,7 +19,7 @@ class PopulateTeams(SphinxDirective):
 
         # Load JSON data
         try:
-            with open(json_path, 'r') as file:
+            with open(json_path, 'r', encoding='utf-8') as file:
                 teams = json.load(file)
         except Exception as e:
             error = self.state_machine.reporter.error(
@@ -40,16 +41,22 @@ class PopulateTeams(SphinxDirective):
                 content.append(f"{team['name']}")
                 content.append( "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n")
                 
-                if team.get('image'):
-                    content.append(f"  .. image:: {team['image']}")
+                image_path = team['image']
+                abs_image_path = os.path.abspath(os.path.join(self.env.srcdir, image_path))
+
+                if team.get('image') and os.path.exists(abs_image_path):
+                    content.append(f"  .. image:: /{image_path}")
                     content.append( "    :align: left")
                     content.append( "    :height: 250\n")
 
                 if team.get('country'):
-                    content.append(f"  {team['country']}\n")
+                    content.append(f"  **{team['country']}**\n")
     
-                if team.get('poster'):
-                    content.append(f"  `Poster <{team['poster']}>`_\n")
+                poster_path = team['poster']
+                abs_poster_path = os.path.abspath(os.path.join(self.env.srcdir, poster_path))
+
+                if team.get('poster') and os.path.exists(abs_poster_path):
+                    content.append(f"  `Poster </{poster_path}>`_\n")
     
                 if team.get('documentation'):
                     content.append(f"  `Documentation <{team['documentation']}>`_\n")
@@ -90,7 +97,7 @@ class PopulateAwards(SphinxDirective):
 
         # Load JSON data
         try:
-            with open(json_path, 'r') as file:
+            with open(json_path, 'r', encoding='utf-8') as file:
                 awards = json.load(file)
         except Exception as e:
             error = self.state_machine.reporter.error(
