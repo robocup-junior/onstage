@@ -239,14 +239,74 @@
     ],
     "superteams":[
         {
-            "name": "Super Beez",
-            "team1": "BananaBots",
-            "country1": "Slovakia",
-            "team2": "Beasts",
-            "country2": "Egypt",
-            "team3": "Buff Bunny",
-            "county3": "Australia"
+            "name": "TechFusion",
+            "teams": [
+                "ACE",
+                "Seventronics",
+                "LinkingBot"
+            ],
+            "performance": "https://youtu.be/GVubdc8IeEM"
+        },
+        {
+            "name": "MEMO",
+            "teams": [
+                "Merinda",
+                "Team Perry (Secret Agent)",
+                "Molibdenio 42"
+            ],
+            "performance": "https://youtu.be/qMm3AeACL9s"
+        },
+        {
+            "name": "CIP Water",
+            "teams": [
+                "Robot Encanto",
+                "Freeware Friends",
+                "Power Splitters"
+            ],
+            "performance": "https://youtu.be/fcX0sAiCdGI"
+        },
+        {
+            "name": "Farm for Steve",
+            "teams": [
+                "Yes, correct, all right",
+                "E=MC2GEYTER",
+                "I Pedoci"
+            ],
+            "performance": "https://youtu.be/cN4OAgM729s"
+        },
+        {
+            "name": "The blind School",
+            "teams": [
+                "AURAT",
+                "Future Experience (Jurassic Boys)",
+                "Momentum Robotics - OnStage"
+            ],
+            "performance": "https://youtu.be/KKEu6pvH4E0"
+        },
+        {
+            "name": "Those guys in the corner",
+            "teams": [
+                "Ben Dover",
+                "Kawasemi3",
+                "HU-More Bot"
+            ],
+            "performance": "https://youtu.be/ht7lc8XNxMo"
+        },
+        {
+            "name": "The purge of the earths end",
+            "teams": [
+                "GENERATION BOTS",
+                "T.I.S",
+                "Team Mars",
+                "All is well"
+            ],
+            "performance": "https://youtu.be/vJ1rVWieD2A"
         }
     ],
-    "Superteam_award":"xyz"
+    "superteam_awards":[
+        {
+            "name":"Superteam 1st Place",
+            "superteam":"Those guys in the corner"
+        }
+    ]
 }

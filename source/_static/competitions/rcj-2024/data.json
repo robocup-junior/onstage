@@ -258,23 +258,81 @@
     "superteams":[
         {
             "name": "Super Beez",
-            "team1": "BananaBots",
-            "country1": "Slovakia",
-            "team2": "Beasts",
-            "country2": "Egypt",
-            "team3": "Buff Bunny",
-            "county3": "Australia"
+            "teams": [
+                "BananaBots",
+                "Beasts",
+                "Buff Bunny"
+            ],
+            "performance": ""
         },
         {
-            "name": "Super Beez",
-            "team1": "BananaBots",
-            "country1": "Slovakia",
-            "team2": "Beasts",
-            "country2": "Egypt",
-            "team3": "Buff Bunny",
-            "county3": "Australia"
+            "name": "Team TUT",
+            "teams": [
+                "Bishop's Knights OnStage",
+                "Conductor",
+                "BBUT Buffalo race"
+            ],
+            "performance": ""
+        },
+        {
+            "name": "KPM-Green Future",
+            "teams": [
+                "RollBand",
+                "INSPIRO",
+                "CR-DeLorean Team"
+            ],
+            "performance": ""
+        },
+        {
+            "name": "Magics Smoke",
+            "teams": [
+                "HU-MORE-BOT",
+                "T.I.2",
+                "Medic Bot"
+            ],
+            "performance": ""
+        },
+        {
+            "name": "Viva La Vida",
+            "teams": [
+                "REVENANTi",
+                "MOLIBDÊNIO",
+                "T.I.S"
+            ],
+            "performance": ""
+        },
+        {
+            "name": "OG Tomato JAM",
+            "teams": [
+                "OG Season",
+                "Team Tomato Cooking",
+                "Team JAM Session"
+            ],
+            "performance": ""
+        },
+        {
+            "name": "Marco´s world",
+            "teams": [
+                "I PEDOCI",
+                "Tech Titans",
+                "The Irrigators"
+            ],
+            "performance": ""
+        },
+        {
+            "name": "Safe Patrick",
+            "teams": [
+                "The Treasure Hunters",
+                "Tomoshibi Technology",
+                "Betelgeuse"
+            ],
+            "performance": ""
         }
     ],
-    "superteam_award_name":"xyz",
-    "superteam_award_team":"Super Beez"
+    "superteam_awards":[
+        {
+            "name":"Superteam 1st Place",
+            "superteam":"Team TUT"
+        }
+    ]
 }
