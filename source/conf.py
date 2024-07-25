@@ -46,14 +46,6 @@ html_static_path = ['_static']
 html_logo = "_static/images/logo_onstage.png"
 html_title = "RoboCupJunior OnStage"
 html_favicon = "_static/images/onstage_favicon.png"
-html_css_files = [
-    'custom.css',
-]
-
-html_theme_options = {
-    "repository_url": "https://github.com/robocup-junior/onstage",
-    "use_repository_button": True
-}
 
 # -- new_tab_link options --------------------------------------------------
 # https://pypi.org/project/sphinx-new-tab-link/
