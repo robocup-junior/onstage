@@ -1,18 +1,38 @@
 [
     {
+        "name": "Individual Team 1st Place",
+        "team": "Tomoshibi Technology"
+    },
+    {
+        "name": "Individual Team 2nd Place",
+        "team": "Team JAM Session"
+    },
+    {
+        "name": "Individual Team 3rd Place",
+        "team": "The Treasure Hunters"
+    },
+    {
+        "name": "Best Stage Performance",
+        "team": "Conductor"
+    },
+    {
         "name": "Best Technical Interview",
-        "team": "Team 1"
+        "team": "REVENANTi"
     },
     {
-        "name": "Best Technical Interview 2",
-        "team": "Team 2"
+        "name": "Best Technical Demonstration Video",
+        "team": "Betelgeuse"
     },
     {
-        "name": "Best Technical Interview 3",
-        "team": "Team 5"
+        "name": "Best Technical Description Poster",
+        "team": "I PEDOCI"
     },
     {
-        "name": "Best Technical Interview 4",
-        "team": "Team 10"
+        "name": "Best Feature Integration",
+        "team": "MOLIBDÊNIO"
+    },
+    {
+        "name": "Winnaar van harten",
+        "team": "CR-DeLorean Team"
     }
 ]
