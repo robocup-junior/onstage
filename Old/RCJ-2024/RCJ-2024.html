@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RoboCupJunior OnStage</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #f7f7f7;
+      color: #333;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-radius: 5px;
+    }
+    h1, h2 {
+      color: #133076;
+    }
+    h1 {
+      text-align: center;
+      margin-top: 0;
+    }
+    p {
+      text-align: justify;
+      margin-bottom: 15px;
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+    li {
+      margin-bottom: 0px;
+    }
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
+      font-family: Arial, sans-serif;
+    }
+    th, td {
+      border: 1px solid #dddddd;
+      text-align: left;
+      padding: 8px;
+    }
+    th {
+      background-color: #d0d0d0;
+    }
+    tr:nth-child(even) {
+      background-color: #f9f9f9;
+    }
+    .headline {
+      background-color: #a0a0a0;
+      font-weight: bold;
+      text-align: center;
+      font-size: 1.2em;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>RoboCupJunior 2024 - Eindhoven</h1>
+    
+    <h2>Teams</h2>
+    <table id="data-table">
+      <tr class="headline">
+        <th style="width: 50%;">Name</th>
+        <th style="width: 50%;">Region</th>
+      </tr>
+    </table>
+
+    <h2>Rankings</h2>
+    <p>Rankings (only those that get published during the award ceremony)</p>
+
+    <h2>Performances and documentation</h2>
+    <p>Table with recordings and documentation...</p>
+  </div>
+
+  <script src="https://hypothes.is/embed.js" async></script>
+  <script>
+    // Fetch the JSON data
+    fetch('team-data.json')
+        .then(response => response.json())
+        .then(data => {
+            // Get the table element
+            const table = document.getElementById('data-table');
+
+            // Iterate over the JSON data and create table rows
+            data.forEach(item => {
+                const row = document.createElement('tr');
+                
+                const nameCell = document.createElement('td');
+                nameCell.textContent = item.Name;
+                row.appendChild(nameCell);
+                
+                const regionCell = document.createElement('td');
+                regionCell.textContent = item.Region;
+                row.appendChild(regionCell);
+                
+                table.appendChild(row);
+            });
+        })
+        .catch(error => console.error('Error fetching JSON data:', error));
+</script>
+</body>
+</html>
