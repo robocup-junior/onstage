@@ -48,9 +48,6 @@ class PopulateTeams(SphinxDirective):
                     content.append(f"  .. image:: /{image_path}")
                     content.append( "    :align: left")
                     content.append( "    :height: 250\n")
-                    print(f"FOUND IMAGE AT {abs_image_path}")
-                else:
-                    print(f"CAN NOT FIND IMAGE AT {abs_image_path}")
 
                 if team.get('poster'):
                     content.append(f"  `Poster <{team['poster']}>`__\n")
