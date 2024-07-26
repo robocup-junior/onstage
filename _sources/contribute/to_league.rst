@@ -1,5 +1,5 @@
-Contribute to the organization
-==============================
+Contribute to the league
+========================
 
 .. admonition:: Nothing here yet!
 
