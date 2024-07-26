@@ -1,62 +1,23 @@
 # RoboCupJunior OnStage
-============================
 
-This page is a list of various websites, documents, posters, videos and other
-resources relevant for [RoboCupJunior](https://junior.robocup.org/)
-[OnStage](https://junior.robocup.org/onstage/). It is an attempt
-to gather everything useful in one place for everybody who wants to learn more.
+This page lists various websites, documents, posters, videos, and other resources relevant for RoboCupJunior OnStage teams, organizers
+and judges. It is supposed to gather all relevant resources in one place.
 
-### Links ###
+If you are either organizing, running or participating in a OnStage competition and want to share your knowledge with others you
+are very welcome to contribute to this page.
 
-- [General RoboCupJunior Rules](https://junior.robocup.org/robocupjunior-general-rules/)
-- [OnStage Rules and Scoresheets](https://junior.robocup.org/rcj-onstage/)
-- [RoboCupJunior Website](https://junior.robocup.org/)
-- [RoboCupJunior Forum](https://junior.forum.robocup.org/)
+Find more information on how to contribute on this page: [Contribute to this page](https://robocup-junior.github.io/onstage/contribute/to_page.html).
 
-### Team documentation and performances
-To be added soon!
+## Build the website locally
 
-#### 2023 - Bordeaux - France
-ACE
+```sh
+git clone https://github.com/robocup-junior/onstage
+cd onstage
+pip install -r docs/requirements.txt
+./docs/make.bat html
+```
 
-All is well
-
-Merinda
-
-Robot Encanto
-
-Yes, correct, all right
-
-AURAT
-
-Ben Dover
-
-GENERATION BOTS
-
-HU-More Bot
-
-I Pedoci
-
-Jurassic Boys
-
-Kawasemi3
-
-Molibdenio 42
-
-Momentum Robotics - OnStage
-
-Secret Agent
-
-T.I.S
-
-Team Mars
-
-LinkingBot
-
-E=MC2GEYTER
-
-Freeware Friends
-
-Power Splitters
-
-Seventronics
+## Host locally
+```
+cd docs/_build/html
+python3 -m http.server
