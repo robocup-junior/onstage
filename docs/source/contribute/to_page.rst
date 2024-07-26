@@ -8,7 +8,7 @@ If you are either organizing, running or participating in a OnStage competition 
 Contribute through GitHub Pull requests
 ---------------------------------------
 
-The most convenient way to contribute is to directly suggest your changes to the `GitHub repository <https://github.com/robocup-junior/onstage>`__, thats stores this page.
+The most convenient way to contribute is to directly suggest your changes to the `GitHub repository <https://github.com/robocup-junior/onstage>`__, that stores this page.
 
 All pages are created using `Sphinx <https://www.sphinx-doc.org/>`__ and `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`__
 which is very easy to read and write.
