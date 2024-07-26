@@ -6,7 +6,19 @@ RoboCupJunior OnStage
    :maxdepth: 1
    :caption: Resources
 
-   resources/how-to-features
+   resources/rules_scoresheets/index
+   resources/teams/index
+   resources/organizers/index
+   resources/judges/index
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Contribute
+
+   contribute/to_organization
+   contribute/to_page
+
 
 .. toctree::
    :maxdepth: 1
@@ -26,34 +38,13 @@ General information about the RoboCupJunior OnStage League can be found on the o
 Rules and Scoresheets
 ---------------------
 
-The OnStage rules are managed in a separate `GitHub repository <https://github.com/robocup-junior/onstage-rules/>`_. Scoresheets are about to be migrated there soon. See the readme to find out more. The documents are available in a printable PDF format and as HTML version. Please also note the general RoboCupJunior rules.
 
-`General RoboCupJunior Rules <https://junior.robocup.org/robocupjunior-general-rules/>`_
-
-OnStage
-~~~~~~~
-
-The OnStage competition is offered to all team members that reached the minimum age specified in the general rules.
-
-- `HTML-Rules <https://robocup-junior.github.io/onstage-rules/main/onstage_rules.html>`_
-- `PDF-Rules <https://robocup-junior.github.io/onstage-rules/main/onstage_rules.pdf>`_
-- `Scoresheets <Scoresheets/OnStage-ScoreSheets-2024.pdf>`_
-
-OnStage Entry
-~~~~~~~~~~~~~
-
-The OnStage competition is only offered at a regional and super-regional level.
-
-- `HTML-Entry-Rules <https://robocup-junior.github.io/onstage-rules/main/onstage_entry_rules.html>`_
-- `PDF-Entry-Rules <https://robocup-junior.github.io/onstage-rules/main/onstage_entry_rules.pdf>`_
-- `Entry-Scoresheets <Scoresheets/OnStage-Entry-ScoreSheets-2024.pdf>`_
 
 Resources
 ---------
 
 The following resources will help you to participate in the OnStage League successfully.
 
-- :doc:`resources/how-to-features`
 
 Past Teams' Performances and Documentation
 ------------------------------------------
