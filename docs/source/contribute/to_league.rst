@@ -1,8 +1,14 @@
 Contribute to the league
 ========================
 
-.. admonition:: Nothing here yet!
+if you are interested in supporting the organization of the international RoboCupJunior events please send a message to :email:`robocupjunior-onstage@robocup.org` and
+we will inform you about the next possibilities to join us!
 
-   If you are interested in contributing to this resource colltection, please see :doc:`/contribute/to_page`.
+Tasks
+-----
 
-   Thank you!
+You might support us with one of the following tasks:
+
+- International volunteer
+- Subcommittee member
+- ...? 
