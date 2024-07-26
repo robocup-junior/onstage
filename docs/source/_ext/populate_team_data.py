@@ -114,7 +114,7 @@ class PopulateAwards(SphinxDirective):
             if award.get('name'):
                 team_label = award['team'].replace(' ', '_')
 
-                content.append(f"**{award['name']}:** :ref:`teams_{id}_{team_label}`")
+                content.append(f":{award['name']}: :ref:`teams_{id}_{team_label}`")
                 content.append( "\n")
 
         # Parse the generated content as reStructuredText
@@ -229,7 +229,7 @@ class PopulateSuperteamAwards(SphinxDirective):
             if award.get('name'):
                 team_label = award['superteam'].replace(' ', '_')
 
-                content.append(f"**{award['name']}:** :ref:`superteams_{id}_{team_label}`")
+                content.append(f":{award['name']}: :ref:`superteams_{id}_{team_label}`")
                 content.append( "\n")
             else:
                 print("NO                     AWARD\n")
