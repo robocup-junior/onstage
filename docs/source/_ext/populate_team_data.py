@@ -284,11 +284,14 @@ def get_team_country(team_name, data):
 
 def resize_image(abs_input_image_path, abs_output_image_path, new_height):
     if abs_input_image_path.endswith(('.png', '.jpg', '.jpeg', '.PNG', '.JPG', '.JPEG')):
+            print(f"Open image from path {abs_input_image_path}")
             img = Image.open(abs_input_image_path)
             aspect_ratio = img.width / img.height
             new_width = int(new_height * aspect_ratio)
+            print("Resizing image")
             img = img.resize((new_width, new_height), Image.Resampling.LANCZOS)
 
+            print("Saving image")
             img.save(abs_output_image_path)
 
             return abs_output_image_path
