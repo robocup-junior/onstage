@@ -1,4 +1,4 @@
 docs/_build/*
 docs/source/_ext/__pycache__
 /.vscode
-/docs/source/_static/images/resized
+/docs/source/_static/images/resized/*
