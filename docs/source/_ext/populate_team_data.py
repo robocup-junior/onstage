@@ -4,6 +4,8 @@ from docutils import nodes
 from docutils.parsers.rst import Directive
 from sphinx.util.docutils import SphinxDirective
 
+# Debug output
+debug_output = False
 
 class PopulateTeams(SphinxDirective):
     has_content = True
@@ -68,9 +70,21 @@ class PopulateTeams(SphinxDirective):
 
         #To debug the output of the above commands:
         #
-        # with open("output.rst", "w") as file:
-        #    # Step 3: Write the content to the file
-        #    file.write(rst_content)
+        if debug_output:
+            base_filename = "output"
+            counter = 1
+            filename = f"{base_filename}_{counter}.rst"
+
+            # Check if the file already exists and create a new filename if necessary
+            while os.path.exists(filename):
+                counter += 1
+                filename = f"{base_filename}_{counter}.rst"
+
+            # Write the content to the file
+            with open(filename, "w") as file:
+                file.write(rst_content)
+
+            print(f"DEBUG Content written to {filename}\n")
 
         node = nodes.section()
         node.document = self.state.document
