@@ -3,7 +3,7 @@
         {
             "name": "ACE",
             "country": "Taiwan (Province of China)",
-            "image": "_static/competitions/rcj-2023/team-photos/O01.jpg",
+            "image": "_static/competitions/rcj-2023/team-photos/2023_O01.jpg",
             "poster": "https://drive.google.com/file/d/1FxFkawNFJeCqxCRCjC2Ls347rYA8oNnW/preview",
             "documentation": "",
             "tdv": "https://youtu.be/PzvSXFBWpq8",
@@ -12,7 +12,7 @@
         {
             "name": "All is well",
             "country": "Taiwan (Province of China)",
-            "image": "_static/competitions/rcj-2023/team-photos/O02.jpg",
+            "image": "_static/competitions/rcj-2023/team-photos/2023_O02.jpg",
             "poster": "https://drive.google.com/file/d/137cLyZhiMsYW0N1e4yxt_mZbh6k0wPRe/preview",
             "documentation": "",
             "tdv": "https://youtu.be/xTPdMcLxx8E",
@@ -21,7 +21,7 @@
         {
             "name": "Merinda",
             "country": "Kazakhstan",
-            "image": "_static/competitions/rcj-2023/team-photos/O03.jpg",
+            "image": "_static/competitions/rcj-2023/team-photos/2023_O03.jpg",
             "poster": "https://drive.google.com/file/d/1i_p1qAnnE0jZTfIcg3GT_jIFFrB_u7zP/preview",
             "documentation": "https://github.com/Kreichik/Merinda",
             "tdv": "https://youtu.be/82U_FBIYPfU",
@@ -30,7 +30,7 @@
         {
             "name": "Robot Encanto",
             "country": "Panama",
-            "image": "_static/competitions/rcj-2023/team-photos/O04.jpg",
+            "image": "_static/competitions/rcj-2023/team-photos/2023_O04.jpg",
             "poster": "https://drive.google.com/file/d/1zcZY8uNOnc1PFi1ysX1bovL2fif0MsBI/preview",
             "documentation": "",
             "tdv": "https://youtu.be/2_ASl3bJh68",
@@ -39,7 +39,7 @@
         {
             "name": "Yes, correct, all right",
             "country": "China",
-            "image": "_static/competitions/rcj-2023/team-photos/O05.jpg",
+            "image": "_static/competitions/rcj-2023/team-photos/2023_O05.jpg",
             "poster": "https://drive.google.com/file/d/1g0eRYMNYPLHpcKZ2ChWA_PXFOrX3Bb32/preview",
             "documentation": "https://github.com/xialbm/robocup2023/",
             "tdv": "https://youtu.be/sVDjgbLMEO8",
@@ -48,7 +48,7 @@
         {
             "name": "AURAT",
             "country": "Italy",
-            "image": "_static/competitions/rcj-2023/team-photos/O06.jpg",
+            "image": "_static/competitions/rcj-2023/team-photos/2023_O06.jpg",
             "poster": "https://drive.google.com/file/d/12rSgX6IyQZYOvKSA5IIwqH_wUmlgF_RU/preview",
             "documentation": "",
             "tdv": "https://youtu.be/7CwFQTCKVt8",
@@ -57,7 +57,7 @@
         {
             "name": "Ben Dover",
             "country": "Slovakia",
-            "image": "_static/competitions/rcj-2023/team-photos/O07.jpg",
+            "image": "_static/competitions/rcj-2023/team-photos/2023_O07.jpg",
             "poster": "https://drive.google.com/file/d/13Mb_Gc5fpAHPjseTTG92JRhmsmC0T7uq/preview",
             "documentation": "",
             "tdv": "https://youtu.be/s3YuQv0SoIg",
@@ -66,7 +66,7 @@
         {
             "name": "GENERATION BOTS",
             "country": "Canada",
-            "image": "_static/competitions/rcj-2023/team-photos/O08.jpg",
+            "image": "_static/competitions/rcj-2023/team-photos/2023_O08.jpg",
             "poster": "https://drive.google.com/file/d/1bGOp_COYwkTnb4TxuWAJfQl01ljyXt3o/preview",
             "documentation": "https://github.com/AdrianaDi23/GenerationBot.git",
             "tdv": "https://youtu.be/LUya2xs9gTk",
@@ -75,7 +75,7 @@
         {
             "name": "HU-More Bot",
             "country": "Hungary",
-            "image": "_static/competitions/rcj-2023/team-photos/O09.jpg",
+            "image": "_static/competitions/rcj-2023/team-photos/2023_O09.jpg",
             "poster": "https://drive.google.com/file/d/1s6PqFMn4rZrvYo8OxdGiq_B8iUk0fQRp/preview",
             "documentation": "",
             "tdv": "https://youtu.be/pp8QUkQbKLU",
@@ -84,7 +84,7 @@
         {
             "name": "I Pedoci",
             "country": "Italy",
-            "image": "_static/competitions/rcj-2023/team-photos/O10.jpg",
+            "image": "_static/competitions/rcj-2023/team-photos/2023_O10.jpg",
             "poster": "https://drive.google.com/file/d/1FR0OowGJ-Va6Wnlwaghq8zPvK9E8xc3x/preview",
             "documentation": "https://github.com/edoardo21332/RC_Ped",
             "tdv": "https://youtu.be/8qgj6C-4Taw",
@@ -93,7 +93,7 @@
         {
             "name": "Future Experience (Jurassic Boys)",
             "country": "Republic of Korea",
-            "image": "_static/competitions/rcj-2023/team-photos/O11.jpg",
+            "image": "_static/competitions/rcj-2023/team-photos/2023_O11.jpg",
             "poster": "https://drive.google.com/file/d/1KTDlmUikdJlDsxvmEKnhJp2cbTr_DOPJ/preview",
             "documentation": "https://github.com/gurilc/robocup2023_onstage/",
             "tdv": "https://youtu.be/l2SIM6ZU3A0",
@@ -102,7 +102,7 @@
         {
             "name": "Kawasemi3",
             "country": "Japan",
-            "image": "_static/competitions/rcj-2023/team-photos/O12.jpg",
+            "image": "_static/competitions/rcj-2023/team-photos/2023_O12.jpg",
             "poster": "https://drive.google.com/file/d/1NmStN9MLcZFGG1DGCUBPbZ6DF3RnTYo3/preview",
             "documentation": "",
             "tdv": "https://youtu.be/e_vbhWQeQzk",
@@ -111,7 +111,7 @@
         {
             "name": "Molibdenio 42",
             "country": "Brazil",
-            "image": "_static/competitions/rcj-2023/team-photos/O13.jpg",
+            "image": "_static/competitions/rcj-2023/team-photos/2023_O13.jpg",
             "poster": "https://drive.google.com/file/d/1Y4GttQQumFlaI_-xAkySi1h8SaCDnxJG/preview",
             "documentation": "",
             "tdv": "https://youtu.be/8J25BpSSirM",
@@ -120,7 +120,7 @@
         {
             "name": "Momentum Robotics - OnStage",
             "country": "Brazil",
-            "image": "_static/competitions/rcj-2023/team-photos/O14.jpg",
+            "image": "_static/competitions/rcj-2023/team-photos/2023_O14.jpg",
             "poster": "https://drive.google.com/file/d/1374SPI6Duy6rGQEll8bQeT0hX-By6ZVj/preview",
             "documentation": "https://github.com/gabrielPedrozaRobotics/momentumOnStage2023",
             "tdv": "https://youtu.be/oB1SdVqWqsE",
@@ -129,7 +129,7 @@
         {
             "name": "Team Perry (Secret Agent)",
             "country": "Israel",
-            "image": "_static/competitions/rcj-2023/team-photos/O15.jpg",
+            "image": "_static/competitions/rcj-2023/team-photos/2023_O15.jpg",
             "poster": "https://drive.google.com/file/d/1o-ZyQYqkoEiqWFPJSqsjW1N2BBp_dLyt/preview",
             "documentation": "",
             "tdv": "https://youtu.be/of5p7Js1R0c",
@@ -138,7 +138,7 @@
         {
             "name": "T.I.S",
             "country": "Iran",
-            "image": "_static/competitions/rcj-2023/team-photos/O16.jpg",
+            "image": "_static/competitions/rcj-2023/team-photos/2023_O16.jpg",
             "poster": "https://drive.google.com/file/d/1SJ-dnACtFIRdBsZtpVVRWZhFqjmSFiQm/preview",
             "documentation": "",
             "tdv": "https://youtu.be/rVJKT9EzAPI",
@@ -147,7 +147,7 @@
         {
             "name": "Team Mars",
             "country": "Germany",
-            "image": "_static/competitions/rcj-2023/team-photos/O17.jpg",
+            "image": "_static/competitions/rcj-2023/team-photos/2023_O17.jpg",
             "poster": "https://drive.google.com/file/d/1RWVFQN9a-_LuMQxnvQwIzSasZfHbvNTi/preview",
             "documentation": "",
             "tdv": "https://youtu.be/S-JMF2EvJmQ",
@@ -156,7 +156,7 @@
         {
             "name": "LinkingBot",
             "country": "Portugal",
-            "image": "_static/competitions/rcj-2023/team-photos/O18.jpg",
+            "image": "_static/competitions/rcj-2023/team-photos/2023_O18.jpg",
             "poster": "https://drive.google.com/file/d/1Kr75P72ZkChxNYMred59NDivkd6DyZ4x/preview",
             "documentation": "https://github.com/RobertoValente/LinkingBot",
             "tdv": "https://youtu.be/pwPNmFuuGtI",
@@ -165,7 +165,7 @@
         {
             "name": "E=MC2GEYTER",
             "country": "France",
-            "image": "_static/competitions/rcj-2023/team-photos/O19.jpg",
+            "image": "_static/competitions/rcj-2023/team-photos/2023_O19.jpg",
             "poster": "https://drive.google.com/file/d/1El8Znw7q4UlxG1v5urHcwvCU92-bLdvi/preview",
             "documentation": "",
             "tdv": "https://youtu.be/nJ-sk263tFI",
@@ -174,7 +174,7 @@
         {
             "name": "Freeware Friends",
             "country": "India",
-            "image": "_static/competitions/rcj-2023/team-photos/O20.jpg",
+            "image": "_static/competitions/rcj-2023/team-photos/2023_O20.jpg",
             "poster": "https://drive.google.com/file/d/10e_2h0kISbqrJsFveqwovYEHSLaMRl1m/preview",
             "documentation": "https://github.com/Tetraslam/RCJ-Bordeaux",
             "tdv": "https://youtu.be/w2eYkVmppHQ",
@@ -183,7 +183,7 @@
         {
             "name": "Power Splitters",
             "country": "Croatia",
-            "image": "_static/competitions/rcj-2023/team-photos/O21.jpg",
+            "image": "_static/competitions/rcj-2023/team-photos/2023_O21.jpg",
             "poster": "https://drive.google.com/file/d/19ALfIA8g9LoHZ6diASGZu1r0QVpscB92/preview",
             "documentation": "",
             "tdv": "https://youtu.be/lh5tj7IR_Ss",
@@ -192,7 +192,7 @@
         {
             "name": "Seventronics",
             "country": "Mexico",
-            "image": "_static/competitions/rcj-2023/team-photos/O22.jpg",
+            "image": "_static/competitions/rcj-2023/team-photos/2023_O22.jpg",
             "poster": "https://drive.google.com/file/d/156XkWtGtZ5Tsa4je2WGqGubXMV9d4svk/preview",
             "documentation": "https://github.com/LGSC1234/Onstage2023",
             "tdv": "https://youtu.be/ku64s3-1K-g",
