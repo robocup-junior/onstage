@@ -292,8 +292,7 @@ def resize_image(abs_input_image_path, abs_output_image_path, new_height):
             abs_output_image_dir, x = os.path.split(abs_output_image_path)
 
             if not os.path.exists(abs_output_image_dir):
-                print("resized folder missing. Creating it.")
-                os.mkdir(abs_output_image_dir)
+                os.mkdir(abs_output_image_dir,)
 
             img.save(abs_output_image_path)
             return abs_output_image_path
