@@ -51,6 +51,9 @@ class PopulateTeams(SphinxDirective):
                     content.append( "    :align: left")
                     content.append( "    :height: 250\n")
 
+                if team.get('country'):
+                    content.append(f"  {team['country']}\n")
+                
                 if team.get('poster'):
                     content.append(f"  `Poster <{team['poster']}>`__\n")
     
@@ -128,7 +131,7 @@ class PopulateAwards(SphinxDirective):
             if award.get('name'):
                 team_label = award['team'].replace(' ', '_')
 
-                content.append(f":{award['name']}: :ref:`teams_{id}_{team_label}`")
+                content.append(f":{award['name']}: :ref:`teams_{id}_{team_label}` ({get_team_country(award['team'],data)})")
                 content.append( "\n")
 
         # Parse the generated content as reStructuredText
