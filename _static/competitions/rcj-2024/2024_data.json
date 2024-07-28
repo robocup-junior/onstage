@@ -1,0 +1,338 @@
+{
+    "teams":[
+        {
+            "name": "BananaBots",
+            "country": "Slovakia",
+            "image": "_static/competitions/rcj-2024/team-photos/2024_O01.JPG",
+            "poster": "https://drive.google.com/file/d/18kYBk0UCbt5RfJ7BrY4Ms46egx6xqkjD/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/5HjkVzChTk0",
+            "performance": "https://youtu.be/HgojcguW6e4"
+        },
+        {
+            "name": "BBUT Buffalo race",
+            "country": "Thailand",
+            "image": "_static/competitions/rcj-2024/team-photos/2024_O02.JPG",
+            "poster": "https://drive.google.com/file/d/1U-51tX8vhSqIYi82bp0-BhYg2QjTufb9/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/TVFkEi86qe8",
+            "performance": "https://youtu.be/Ix1ks1mgIp4"
+        },
+        {
+            "name": "Beasts",
+            "country": "Egypt",
+            "image": "_static/competitions/rcj-2024/team-photos/2024_O03.JPG",
+            "poster": "https://drive.google.com/file/d/1zhU3O8i7dnZ2LzACOVM-xd__xBQng4xG/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/G0JoB6_7nqw",
+            "performance": "https://youtu.be/2BLYDMe5pUE"
+        },
+        {
+            "name": "Betelgeuse",
+            "country": "Brazil",
+            "image": "_static/competitions/rcj-2024/team-photos/2024_O04.JPG",
+            "poster": "https://drive.google.com/file/d/17TIYqbHHbLKzTNdspfZuVKZfQDBP2ZEa/preview",
+            "documentation": "https://github.com/FepowerGUIdo/Rigel",
+            "tdv": "https://youtu.be/B25wx50sDvM",
+            "performance": "https://youtu.be/1KXVKS4O2X0"
+        },
+        {
+            "name": "Bishop's Knights OnStage",
+            "country": "USA",
+            "image": "_static/competitions/rcj-2024/team-photos/2024_O05.JPG",
+            "poster": "https://drive.google.com/file/d/1MxgWNO6OfjjMSWVvtLDzF7-08nWg16xV/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/yt13EQY4z2s",
+            "performance": "https://youtu.be/ODqOMNSyfRo"
+        },
+        {
+            "name": "Buff Bunny",
+            "country": "Australia",
+            "image": "_static/competitions/rcj-2024/team-photos/2024_O06.JPG",
+            "poster": "https://drive.google.com/file/d/1c1huGwJEXkNua2DwrhorYBCsIvC-S_si/preview",
+            "documentation": "https://github.com/BenjaminTang953/Buff-Bunny/",
+            "tdv": "https://youtu.be/HHKMwWWaB8c",
+            "performance": "https://youtu.be/GtG7LXlUsYY"
+        },
+        {
+            "name": "Conductor",
+            "country": "Taiwan",
+            "image": "_static/competitions/rcj-2024/team-photos/2024_O07.JPG",
+            "poster": "https://drive.google.com/file/d/1lXUj5xlnoitrJyKZkPQY5_S26E5iCU-J/preview",
+            "documentation": "https://github.com/jarvis0222/All_program",
+            "tdv": "https://youtu.be/WgZM7QyFvy8",
+            "performance": "https://youtu.be/S-aaedmqCwM"
+        },
+        {
+            "name": "CR-DeLorean Team",
+            "country": "Mexico",
+            "image": "_static/competitions/rcj-2024/team-photos/2024_O08.JPG",
+            "poster": "https://drive.google.com/file/d/1mTiOMB9ChukcnjwFRaQqPq3486O19mY7/preview",
+            "documentation": "https://github.com/vanessaltrejo/CR-DeLorean-Team",
+            "tdv": "https://youtu.be/PHhHg7o07HE",
+            "performance": "https://youtu.be/vLim6GT-JJM"
+        },
+        {
+            "name": "HU-MORE-BOT",
+            "country": "Hungary",
+            "image": "_static/competitions/rcj-2024/team-photos/2024_O09.JPG",
+            "poster": "https://drive.google.com/file/d/1TB9h9k_wmwQxwJXeyGhw3YhIuQNl_3P2/preview",
+            "documentation": "https://github.com/hu-more-bot/rcj2024",
+            "tdv": "https://youtu.be/DnHDbMKK2JY",
+            "performance": "https://youtu.be/IYvpqP3ss7c"
+        },
+        {
+            "name": "I PEDOCI",
+            "country": "Italy",
+            "image": "_static/competitions/rcj-2024/team-photos/2024_O10.JPG",
+            "poster": "https://drive.google.com/file/d/1_JoH2cecGo3eJ1-ODqTkos5hyWo_XlkY/preview",
+            "documentation": "https://github.com/imleeesa/Pedoci_2024",
+            "tdv": "https://youtu.be/noXvuFbEXys",
+            "performance": "https://youtu.be/pTwVTlybS5Q"
+        },
+        {
+            "name": "INSPIRO",
+            "country": "Kazakhstan",
+            "image": "_static/competitions/rcj-2024/team-photos/2024_O11.JPG",
+            "poster": "https://drive.google.com/file/d/1u6onh15wBXwqIYfbEP3Jp0ekqpbdhKcB/preview",
+            "documentation": "https://github.com/the-4OUR5IVE/kz_robocup2024",
+            "tdv": "https://youtu.be/cZMvBe_PT_g",
+            "performance": "https://youtu.be/SWkopEIO9cw"
+        },
+        {
+            "name": "Medic Bot",
+            "country": "Canada",
+            "image": "_static/competitions/rcj-2024/team-photos/2024_O12.JPG",
+            "poster": "https://drive.google.com/file/d/1iou7F8BwBwYfREP6FklhwAIQ_dKt_EF5/preview",
+            "documentation": "https://github.com/ToucTheToucan/MedicBot",
+            "tdv": "https://youtu.be/4f-bMQBktqw",
+            "performance": ""
+        },
+        {
+            "name": "MOLIBDÊNIO",
+            "country": "Brazil",
+            "image": "_static/competitions/rcj-2024/team-photos/2024_O13.JPG",
+            "poster": "https://drive.google.com/file/d/1el1lpO_tVWXtpGXvh7K-BQmoTmHhRa_r/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/oJEiFGgUDxw",
+            "performance": "https://youtu.be/Sw8kkZ045iM"
+        },
+        {
+            "name": "OG Season",
+            "country": "Germany",
+            "image": "_static/competitions/rcj-2024/team-photos/2024_O14.JPG",
+            "poster": "https://drive.google.com/file/d/1xoOZIX5jrseZRZLnR7mzapBkmLFXMPzZ/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/bo64K7P5RtM",
+            "performance": "https://youtu.be/LHQeAtiA9WM"
+        },
+        {
+            "name": "REVENANTi",
+            "country": "Italy",
+            "image": "_static/competitions/rcj-2024/team-photos/2024_O15.JPG",
+            "poster": "https://drive.google.com/file/d/1aNTZRY9gBzESiqC6WMjlRBkD3-ALevTj/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/yOYuPLq7dlQ",
+            "performance": "https://youtu.be/vC3pKk9IZaU"
+        },
+        {
+            "name": "T.I.2",
+            "country": "Iran",
+            "image": "_static/competitions/rcj-2024/team-photos/2024_O16.JPG",
+            "poster": "https://drive.google.com/file/d/14ZJbyKO2nbf-BoJnrgKjj0-9lWn0zE-S/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/cuMqeXn9O1Y",
+            "performance": "https://youtu.be/69RKiY4YVN8"
+        },
+        {
+            "name": "T.I.S",
+            "country": "Iran",
+            "image": "_static/competitions/rcj-2024/team-photos/2024_O17.JPG",
+            "poster": "https://drive.google.com/file/d/18M8Xznknm6DDmk7_5YadGJ-GgDpEjFvY/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/sMviWhHz3rM",
+            "performance": "https://youtu.be/eLmf7U2ii5g"
+        },
+        {
+            "name": "Team JAM Session",
+            "country": "USA",
+            "image": "_static/competitions/rcj-2024/team-photos/2024_O18.JPG",
+            "poster": "https://drive.google.com/file/d/10pSZVoKG1q_VPVOavWx2IDg7HHwh969a/preview",
+            "documentation": "https://github.com/mbaireddy/JAM-Session-RCJ-Onstage-2024",
+            "tdv": "https://youtu.be/zyScdCeXh94",
+            "performance": "https://youtu.be/i3jGcNyJv9c"
+        },
+        {
+            "name": "Team Tomato Cooking",
+            "country": "China",
+            "image": "_static/competitions/rcj-2024/team-photos/2024_O19.JPG",
+            "poster": "https://drive.google.com/file/d/1N-1U0LwlgPkKdifxOzSZxX9D7Nwgx4oS/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/5O1yyLpPBS0",
+            "performance": "https://youtu.be/m2JoV-woqP8"
+        },
+        {
+            "name": "Tech Titans",
+            "country": "Panama",
+            "image": "_static/competitions/rcj-2024/team-photos/2024_O20.JPG",
+            "poster": "https://drive.google.com/file/d/1bT4fCEOtq9gr1E5ocPjgCoPuWYj6gqU1/preview",
+            "documentation": "https://github.com/techtitanspanama/Tech-Titans-Panama",
+            "tdv": "https://youtu.be/UGQh254vyeQ",
+            "performance": "https://youtu.be/F6UJJZNtuaE"
+        },
+        {
+            "name": "The Irrigators",
+            "country": "India",
+            "image": "_static/competitions/rcj-2024/team-photos/2024_O21.JPG",
+            "poster": "https://drive.google.com/file/d/1BTFeViSJ4aGLbfIZwFS0ZQfj0MU9VD-X/preview",
+            "documentation": "https://github.com/AeroSonic007/RCJ-2024-Netherlands---The-Irrigators-India-",
+            "tdv": "https://youtu.be/Jc-eVg0ftnQ",
+            "performance": "https://youtu.be/QWRq8e9aG5Y"
+        },
+        {
+            "name": "The Treasure Hunters",
+            "country": "Austria",
+            "image": "_static/competitions/rcj-2024/team-photos/2024_O22.JPG",
+            "poster": "https://drive.google.com/file/d/1m8eLNLwnyFry85FABo2aXoyu17vLBDXj/preview",
+            "documentation": "https://github.com/RoboCupNenzing/RoboCup2024",
+            "tdv": "https://youtu.be/4jZX2-gNSPY",
+            "performance": "https://youtu.be/ym_fB07plcw"
+        },
+        {
+            "name": "Tomoshibi Technology",
+            "country": "Japan",
+            "image": "_static/competitions/rcj-2024/team-photos/2024_O23.JPG",
+            "poster": "https://drive.google.com/file/d/19TOM5o9O2XdSBc00Fr5O3k87qQRkatmN/preview",
+            "documentation": "https://github.com/Tomoshibi-technology",
+            "tdv": "https://youtu.be/E2yGFrZC9-w",
+            "performance": "https://youtu.be/eePvvMbTeU4"
+        },
+        {
+            "name": "RollBand",
+            "country": "Portugal",
+            "image": "_static/competitions/rcj-2024/team-photos/2024_O24.JPG",
+            "poster": "https://drive.google.com/file/d/1Hc1xSZvN7c1ep0ngBfXFNxfLqLa-DCoQ/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/uYtIRJ8o65g",
+            "performance": "https://youtu.be/s-hjFkvfox8"
+        }
+    ],
+    "awards":[
+        {
+            "name": "Individual Team 1st Place",
+            "team": "Tomoshibi Technology"
+        },
+        {
+            "name": "Individual Team 2nd Place",
+            "team": "Team JAM Session"
+        },
+        {
+            "name": "Individual Team 3rd Place",
+            "team": "The Treasure Hunters"
+        },
+        {
+            "name": "Best Stage Performance",
+            "team": "Conductor"
+        },
+        {
+            "name": "Best Technical Interview",
+            "team": "REVENANTi"
+        },
+        {
+            "name": "Best Technical Demonstration Video",
+            "team": "Betelgeuse"
+        },
+        {
+            "name": "Best Technical Description Poster",
+            "team": "I PEDOCI"
+        },
+        {
+            "name": "Best Feature Integration",
+            "team": "MOLIBDÊNIO"
+        },
+        {
+            "name": "Winnaar van harten",
+            "team": "CR-DeLorean Team"
+        }
+    ],
+    "superteams":[
+        {
+            "name": "Super Beez",
+            "teams": [
+                "BananaBots",
+                "Beasts",
+                "Buff Bunny"
+            ],
+            "performance": ""
+        },
+        {
+            "name": "Team TUT",
+            "teams": [
+                "Bishop's Knights OnStage",
+                "Conductor",
+                "BBUT Buffalo race"
+            ],
+            "performance": ""
+        },
+        {
+            "name": "KPM-Green Future",
+            "teams": [
+                "RollBand",
+                "INSPIRO",
+                "CR-DeLorean Team"
+            ],
+            "performance": ""
+        },
+        {
+            "name": "Magics Smoke",
+            "teams": [
+                "HU-MORE-BOT",
+                "T.I.2",
+                "Medic Bot"
+            ],
+            "performance": ""
+        },
+        {
+            "name": "Viva La Vida",
+            "teams": [
+                "REVENANTi",
+                "MOLIBDÊNIO",
+                "T.I.S"
+            ],
+            "performance": ""
+        },
+        {
+            "name": "OG Tomato JAM",
+            "teams": [
+                "OG Season",
+                "Team Tomato Cooking",
+                "Team JAM Session"
+            ],
+            "performance": ""
+        },
+        {
+            "name": "Marco´s world",
+            "teams": [
+                "I PEDOCI",
+                "Tech Titans",
+                "The Irrigators"
+            ],
+            "performance": ""
+        },
+        {
+            "name": "Safe Patrick",
+            "teams": [
+                "The Treasure Hunters",
+                "Tomoshibi Technology",
+                "Betelgeuse"
+            ],
+            "performance": ""
+        }
+    ],
+    "superteam_awards":[
+        {
+            "name":"Superteam 1st Place",
+            "superteam":"Team TUT"
+        }
+    ]
+}
