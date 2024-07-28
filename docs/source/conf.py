@@ -51,4 +51,4 @@ html_favicon = "_static/images/onstage_favicon.png"
 # -- new_tab_link options --------------------------------------------------
 # https://pypi.org/project/sphinx-new-tab-link/
 
-new_tab_link_show_external_link_icon = True
+new_tab_link_show_external_link_icon = False

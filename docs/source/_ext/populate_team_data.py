@@ -3,6 +3,7 @@ import json
 from docutils import nodes
 from docutils.parsers.rst import Directive
 from sphinx.util.docutils import SphinxDirective
+from PIL import Image
 
 # Debug output
 debug_output = False
@@ -47,9 +48,18 @@ class PopulateTeams(SphinxDirective):
                 abs_image_path = os.path.abspath(os.path.join(self.env.srcdir, image_path))
 
                 if team.get('image') and os.path.exists(abs_image_path):
-                    content.append(f"  .. image:: /{image_path}")
-                    content.append( "    :align: left")
-                    content.append( "    :height: 250\n")
+                    resized_image_dir = "_static/images/resized"
+                    resized_image_suffix = "_resized"
+                    image_dir, image_name = os.path.split(image_path)
+                    image_name, image_ext = os.path.splitext(image_name)
+                    resized_image_path = f"{resized_image_dir}/{image_name}{resized_image_suffix}{image_ext}"
+                    abs_resized_image_path = os.path.abspath(os.path.join(self.env.srcdir, resized_image_path))
+
+                    if resize_image(abs_image_path,abs_resized_image_path,250) != None:
+                        content.append(f"  .. image:: /{resized_image_path}")
+                        content.append(f"    :target: /{image_path}")
+                        content.append( "    :align: left")
+                        content.append( "    :height: 250\n")
 
                 if team.get('country'):
                     content.append(f"  {team['country']}\n")
@@ -271,6 +281,20 @@ def get_team_country(team_name, data):
         if team["name"] == team_name:
             return team["country"]
     return None
+
+def resize_image(abs_input_image_path, abs_output_image_path, new_height):
+    if abs_input_image_path.endswith(('.png', '.jpg', '.jpeg', '.PNG', '.JPG', '.JPEG')):
+            img = Image.open(abs_input_image_path)
+            aspect_ratio = img.width / img.height
+            new_width = int(new_height * aspect_ratio)
+            img = img.resize((new_width, new_height), Image.Resampling.LANCZOS)
+
+            img.save(abs_output_image_path)
+
+            return abs_output_image_path
+    else:
+        print(f"File provided for resize_image is in wrong format. (Filepath: {abs_input_image_path})")
+        return None
 
 def setup(app):
     app.add_directive('teams', PopulateTeams)

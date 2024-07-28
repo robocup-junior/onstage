@@ -81,3 +81,4 @@ sphinx_toolbox==3.7.0
 sphinxcontrib.youtube==1.4.1
 sphinx_new_tab_link==0.5.0
 sphinxcontrib.email==0.3.6
+Pillow==10.4.0
