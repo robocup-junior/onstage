@@ -57,7 +57,10 @@ class PopulateTeams(SphinxDirective):
 
                     if resize_image(abs_image_path,abs_resized_image_path,250) != None:
                         content.append(f"  .. image:: /{resized_image_path}")
-                        content.append(f"    :target: /{image_path}")
+                        # Path to full size image won't be working when run locally, but is working through GitHub pages
+                        # Need to find a better solution in the future
+                        # TO DO
+                        content.append(f"    :target: /onstage/{image_path}")
                         content.append( "    :align: left")
                         content.append( "    :height: 250\n")
 
