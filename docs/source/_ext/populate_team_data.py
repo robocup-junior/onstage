@@ -206,6 +206,12 @@ class PopulateSuperteams(SphinxDirective):
 
                     content.append(f"  :ref:`teams_{id}_{team_label}` ({team_country})\n")
                 
+                if superteam.get('introduction'):
+                    content.append(f"  `Introduction <{superteam['introduction']}>`__\n")
+
+                if superteam.get('performance'):
+                    content.append(f"  `Performance <{superteam['performance']}>`__\n")
+
                 content.append( "\n")
 
         # Parse the generated content as reStructuredText
