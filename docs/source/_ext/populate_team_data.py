@@ -84,23 +84,7 @@ class PopulateTeams(SphinxDirective):
         # Parse the generated content as reStructuredText
         rst_content = "\n".join(content)
 
-        #To debug the output of the above commands:
-        #
-        if debug_output:
-            base_filename = "output"
-            counter = 1
-            filename = f"{base_filename}_{counter}.rst"
-
-            # Check if the file already exists and create a new filename if necessary
-            while os.path.exists(filename):
-                counter += 1
-                filename = f"{base_filename}_{counter}.rst"
-
-            # Write the content to the file
-            with open(filename, "w") as file:
-                file.write(rst_content)
-
-            print(f"DEBUG Content written to {filename}\n")
+        write_debug_output(rst_content)
 
         node = nodes.section()
         node.document = self.state.document
@@ -149,6 +133,8 @@ class PopulateAwards(SphinxDirective):
 
         # Parse the generated content as reStructuredText
         rst_content = "\n".join(content)
+
+        write_debug_output(rst_content)
 
         node = nodes.section()
         node.document = self.state.document
@@ -217,11 +203,7 @@ class PopulateSuperteams(SphinxDirective):
         # Parse the generated content as reStructuredText
         rst_content = "\n".join(content)
 
-        #To debug the output of the above commands:
-        #
-        # with open("output.rst", "w") as file:
-        #    # Step 3: Write the content to the file
-        #    file.write(rst_content)
+        write_debug_output(rst_content)
 
         node = nodes.section()
         node.document = self.state.document
@@ -274,6 +256,8 @@ class PopulateSuperteamAwards(SphinxDirective):
         # Parse the generated content as reStructuredText
         rst_content = "\n".join(content)
 
+        write_debug_output(rst_content)
+
         node = nodes.section()
         node.document = self.state.document
         self.state.nested_parse(
@@ -307,6 +291,24 @@ def resize_image(abs_input_image_path, abs_output_image_path, new_height):
             return abs_output_image_path
     else:
         print(f"File provided for resize_image is in wrong format or not available. (Filepath: {abs_input_image_path})")
+        return None
+    
+def write_debug_output(content):
+    if write_debug_output:
+        base_filename = "output"
+        counter = 1
+        filename = f"{base_filename}_{counter}.rst"
+
+        # Check if the file already exists and create a new filename if necessary
+        while os.path.exists(filename):
+            counter += 1
+            filename = f"{base_filename}_{counter}.rst"
+
+        # Write the content to the file
+        with open(filename, "w") as file:
+            file.write(content)
+
+        print(f"DEBUG Content written to {filename}\n")
         return None
 
 def setup(app):
