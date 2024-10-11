@@ -297,7 +297,7 @@ def resize_image(abs_input_image_path, abs_output_image_path, new_height):
         return None
     
 def write_debug_output(content):
-    if write_debug_output:
+    if debug_output:
         base_filename = "output"
         counter = 1
         filename = f"{base_filename}_{counter}.rst"
