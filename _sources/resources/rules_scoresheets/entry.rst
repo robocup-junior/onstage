@@ -17,7 +17,7 @@ The latest version of the official RoboCupJunior OnStage Entry rules and scoresh
 
    The drafts are still under development and my be changed at all times!
 
-   Please feel free to leave any feedback in the `forum <https://junior.forum.robocup.org/t/robocup-2024-on-stage-feedback/4032/2>`__.
+   Please feel free to leave any feedback in the `forum <https://junior.forum.robocup.org/t/onstage-draft-rules-and-scoresheets-for-2025/4368>`__.
 
 Rules
 ^^^^^
