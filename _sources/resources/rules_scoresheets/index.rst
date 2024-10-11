@@ -7,6 +7,10 @@ Rules and Scoresheets
    OnStage <onstage>
    OnStage Entry <entry>
 
+.. admonition:: DRAFT RULES
+
+   The DRAFT rules for the 2025 season have been released and can be found on the rule pages!
+
 
 The official OnStage rules are used during the international RoboCupJunior competition. It is recomended for organizers of regional events to apply them in the same form to ensure consistency.
 Please also note the `RoboCupJunior General Rules <https://junior.robocup.org/robocupjunior-general-rules/>`__.
