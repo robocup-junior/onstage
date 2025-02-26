@@ -16,9 +16,9 @@ The latest version of the official RoboCupJunior OnStage Entry rules and scoresh
 Rules
 ^^^^^
 
-`HTML-Entry-Rules <https://robocup-junior.github.io/onstage-rules/2025-draft/onstage_entry_rules.html>`__
+`HTML-Entry-Rules <https://robocup-junior.github.io/onstage-rules/main/onstage_entry_rules.html>`__
 
-`PDF-Entry-Rules <https://robocup-junior.github.io/onstage-rules/2025-draft/onstage_entry_rules.pdf>`__
+`PDF-Entry-Rules <https://robocup-junior.github.io/onstage-rules/main/onstage_entry_rules.pdf>`__
 
 Scoresheets
 ^^^^^^^^^^^
