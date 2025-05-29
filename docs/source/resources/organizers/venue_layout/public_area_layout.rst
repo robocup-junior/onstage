@@ -12,7 +12,7 @@ The figure below illustrates an exemplary floor plan of the public space, includ
 
    Exemplary layout of the public area with AV signal routing
 
-`Download Layout  /onstage/_static/resources/organizers/stage_setup.pdf`__
+`Download Layout  </onstage/_static/resources/organizers/stage_setup.pdf>`__
 
 The following setup is recommended for hosting a successful OnStage competition. Components required by the rules are written in **bold**.
 
