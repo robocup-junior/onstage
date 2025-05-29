@@ -5,4 +5,4 @@ Resources for organizers
    :maxdepth: 1
 
    scheduling
-   venue_layout
+   venue_layout/index
