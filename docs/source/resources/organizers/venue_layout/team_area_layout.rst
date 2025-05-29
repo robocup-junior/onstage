@@ -57,3 +57,9 @@ Reception Desk
 The reception desk will be staffed with volunteers who monitor the entrance to ensure that only participants have access to the team area. They will also act as the first point of contact for any questions from the teams.
 
 A screen should be placed near the reception desk to continuously display the event schedule and other general information relevant to the teams. This information may be provided via a website, which the screen or a connected device must be able to access and display.
+
+Committee Work Table
+--------------------
+
+Ideally, dedicated work tables for the league committee should be provided within or close to the team area. These tables should offer sufficient seating and power outlets for all committee members, as well as access to a wired internet connection.
+To maintain a small separation between the committee and the teams, retractable belt barriers can be used.
