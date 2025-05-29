@@ -1,16 +1,9 @@
-Venue Layout
-============
-
-Recommendations for the layout of an RCJ OnStage competition area are provided below.
-
-While some design elements depend on the number of participants or visitors, others are essential for every competition as they are required by the rules.
-
 Public Area
------------
+===========
 
 The public area is open to visitors and should be designed to ensure that participants have easy access to the performance area on stage. It should also provide a clear view for the audience to watch the teams' performances.
 
-The figure below illustrates an exemplary floor plan of the public space, including the stage, seating area, and **Front of House (FOH)**, where all AV control systems are located. It also displays the recommended AV signal routing between components.
+The figure below illustrates an exemplary floor plan of the public space, including the stage, seating area, and AV-Desk (FOH – *Front of House*), where all AV control systems are located. It also displays the recommended AV signal routing between components.
 
 .. figure:: /_static/resources/organizers/stage_setup.svg
    :figwidth: 100%
@@ -19,10 +12,12 @@ The figure below illustrates an exemplary floor plan of the public space, includ
 
    Exemplary layout of the public area with AV signal routing
 
+`Download Layout  </_static/resources/organizers/stage_setup.pdf>`__
+
 The following setup is recommended for hosting a successful OnStage competition. Components required by the rules are written in **bold**.
 
-Audio / PA System
-^^^^^^^^^^^^^^^^^
+Audio / PA-System
+-----------------
 
 The following audio devices are controlled by a mixer located at the FOH:
 
@@ -31,20 +26,21 @@ The following audio devices are controlled by a mixer located at the FOH:
 - **Two wireless microphones** on stage for team use
 - *Optional:* An additional wireless microphone for the stage host / MC
 - **Computer** to play media provided by participants
-- **3.5 mm audio plug with ~6 m cable on stage**, allowing teams to connect their robots to the audio system
+- **3.5 mm audio jack with ~6 m cable on stage**, allowing teams to connect their robots to the audio system
 
 Video System
-^^^^^^^^^^^^
+------------
 
 The following video devices are controlled by an HDMI mixer at the FOH:
 
 - **LED wall or projector with screen**, positioned at least 1.5 m above the stage floor
-- Wireless presenter for controlling slides
 - **Computer** to play media provided by participants (can be the same as for audio)
 - **HDMI plug with ~6 m cable on stage**, allowing teams to connect their robots to the video system
 
+Additionally, a wireless presenter for controlling slides is helpful for the teams.
+
 Timer System
-^^^^^^^^^^^^
+------------
 
 During performances, two timers must be displayed on a separate screen:
 
@@ -69,7 +65,7 @@ Recommended software for displaying the timers:
    Exemplary timer screen layout
 
 **Alternative to TV screen:**
-Two sports timers with remote control from the judges table
+Two sports timers that can be remotely controlled from the judges' table
 
 .. figure:: /_static/resources/organizers/sports_timer.webp
    :figwidth: 50%
