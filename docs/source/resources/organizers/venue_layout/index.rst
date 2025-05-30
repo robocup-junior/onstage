@@ -10,3 +10,4 @@ While some design elements depend on the number of participants or visitors, oth
 
    public_area_layout
    team_area_layout
+   interview_room_layout
