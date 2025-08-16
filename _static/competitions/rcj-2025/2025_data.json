@@ -3,7 +3,7 @@
         {
             "name": "IFBOTICS",
             "country": "Brazil",
-            "image": "_static/competitions/rcj-2025/team-photos/2025_O01.JPG",
+            "image": "_static/competitions/rcj-2025/team-photos/2025_O01.jpg",
             "poster": "https://drive.google.com/file/d/1V8BXQAcnE0eLmgZ97At-h8jC4hRh6ffl/preview",
             "documentation": "",
             "tdv": "https://youtu.be/HWN7N1587YM",
@@ -12,7 +12,7 @@
         {
             "name": "Pardoboots Art",
             "country": "Brazil",
-            "image": "_static/competitions/rcj-2025/team-photos/2025_O02.JPG",
+            "image": "_static/competitions/rcj-2025/team-photos/2025_O02.jpg",
             "poster": "https://drive.google.com/file/d/1-jvAd9GOKQDEJG3dX9fhMQgQs50v9Izv/preview",
             "documentation": "https://github.com/PardobootsArt/ONSTAGE-24-25",
             "tdv": "https://youtu.be/PhTtO_bNXOs",
@@ -21,7 +21,7 @@
         {
             "name": "SESI Hortobots",
             "country": "Brazil",
-            "image": "_static/competitions/rcj-2025/team-photos/2025_O03.JPG",
+            "image": "_static/competitions/rcj-2025/team-photos/2025_O03.jpg",
             "poster": "https://drive.google.com/file/d/1HOnih0IBd7xub5uvxm9qRDs9piTJa-lW/preview",
             "documentation": "https://github.com/SESI-Hortobots",
             "tdv": "https://youtu.be/mOavvSQjAxc",
@@ -30,7 +30,7 @@
         {
             "name": "Potato Cooking",
             "country": "China",
-            "image": "_static/competitions/rcj-2025/team-photos/2025_O04.JPG",
+            "image": "_static/competitions/rcj-2025/team-photos/2025_O04.jpg",
             "poster": "https://drive.google.com/file/d/1FUPg0R7wDGveSL2xggi2JIAg6qvQJe_r/preview",
             "documentation": "",
             "tdv": "https://youtu.be/PDFqwUz5ZVA",
@@ -39,7 +39,7 @@
         {
             "name": "Summer Survivors",
             "country": "China",
-            "image": "_static/competitions/rcj-2025/team-photos/2025_O05.JPG",
+            "image": "_static/competitions/rcj-2025/team-photos/2025_O05.jpg",
             "poster": "https://drive.google.com/file/d/1APGQTzqySZVlaVYTBAvWCaypqI2RXhFz/preview",
             "documentation": "https://github.com/xialbm/RCJ2025",
             "tdv": "https://youtu.be/TW2934iIOlU",
@@ -48,7 +48,7 @@
         {
             "name": "Nutella Brötchen",
             "country": "Germany",
-            "image": "_static/competitions/rcj-2025/team-photos/2025_O06.JPG",
+            "image": "_static/competitions/rcj-2025/team-photos/2025_O06.jpg",
             "poster": "https://drive.google.com/file/d/1papSUSOgiwhWHx0dLiC33Ke_s_YueKPw/preview",
             "documentation": "",
             "tdv": "https://youtu.be/h-O0B2nWuRA",
@@ -57,7 +57,7 @@
         {
             "name": "AURAT",
             "country": "Italy",
-            "image": "_static/competitions/rcj-2025/team-photos/2025_O08.JPG",
+            "image": "_static/competitions/rcj-2025/team-photos/2025_O08.jpg",
             "poster": "https://drive.google.com/file/d/1ZlMYBvjjPlbbZPWzbAW7YTEbxvCD1lDG/preview",
             "documentation": "https://github.com/Aurat-C-Facchinetti/RoboCup-OnStage-2025-Brazil.git",
             "tdv": "https://youtu.be/Jm-58LITAFw",
@@ -66,7 +66,7 @@
         {
             "name": "Meiden AD ROBO",
             "country": "Japan",
-            "image": "_static/competitions/rcj-2025/team-photos/2025_O09.JPG",
+            "image": "_static/competitions/rcj-2025/team-photos/2025_O09.jpg",
             "poster": "https://drive.google.com/file/d/1MNOqgKgCybNSznogN520YgXvwdYTK8NZ/preview",
             "documentation": "",
             "tdv": "https://youtu.be/7uErT-AvtrI",
@@ -75,7 +75,7 @@
         {
             "name": "RC Lynx",
             "country": "Mexico",
-            "image": "_static/competitions/rcj-2025/team-photos/2025_O10.JPG",
+            "image": "_static/competitions/rcj-2025/team-photos/2025_O10.jpg",
             "poster": "https://drive.google.com/file/d/1ooHP1YpB_j5hv-EM6uSj6kvQ5FTBSSXe/preview",
             "documentation": "https://github.com/Tropcin/Lynx_UANL/",
             "tdv": "https://youtu.be/PHozfFI2mRg",
@@ -84,7 +84,7 @@
         {
             "name": "Guardians",
             "country": "Panama",
-            "image": "_static/competitions/rcj-2025/team-photos/2025_O11.JPG",
+            "image": "_static/competitions/rcj-2025/team-photos/2025_O11.jpg",
             "poster": "https://drive.google.com/file/d/1Q9Sl4DNlgzePLvMhT8ZxV31PGYtDouD_/preview",
             "documentation": "https://github.com/GuardiansPanama/Proyecto-InsideOut",
             "tdv": "https://youtu.be/7-ZAy-_vo-I",
@@ -93,7 +93,7 @@
         {
             "name": "Compañerobots",
             "country": "Slovakia",
-            "image": "_static/competitions/rcj-2025/team-photos/2025_O12.JPG",
+            "image": "_static/competitions/rcj-2025/team-photos/2025_O12.jpg",
             "poster": "https://drive.google.com/file/d/1xRnLGQXJbdnsivb1DC_94R3FTGTykGVX/preview",
             "documentation": "https://github.com/0Tamara/CompaneroBots",
             "tdv": "https://youtu.be/os_FWQRMunA",
@@ -102,7 +102,7 @@
         {
             "name": "My ROBOTIC neighbor",
             "country": "Sweden",
-            "image": "_static/competitions/rcj-2025/team-photos/2025_O13.JPG",
+            "image": "_static/competitions/rcj-2025/team-photos/2025_O13.jpg",
             "poster": "https://drive.google.com/file/d/1A7T4dZuVlJ8lvYoJUtFXau7bXbU1ZUI5/preview",
             "documentation": "",
             "tdv": "https://youtu.be/aVVPhhW9kDg",
@@ -111,7 +111,7 @@
         {
             "name": "UAE_OS_1",
             "country": "United Arab Emirates",
-            "image": "_static/competitions/rcj-2025/team-photos/2025_O14.JPG",
+            "image": "_static/competitions/rcj-2025/team-photos/2025_O14.jpg",
             "poster": "https://drive.google.com/file/d/1LDJG_Vhku0RWgtDH37BICMTqV4-oZF4t/preview",
             "documentation": "",
             "tdv": "https://youtu.be/DVaLmvujERA",
@@ -120,7 +120,7 @@
         {
             "name": "Blue Storm Lizards",
             "country": "USA",
-            "image": "_static/competitions/rcj-2025/team-photos/2025_O15.JPG",
+            "image": "_static/competitions/rcj-2025/team-photos/2025_O15.jpg",
             "poster": "https://drive.google.com/file/d/1Z0GIimu3m5oPwVuBRKuqJ3uYvrt6CWA8/preview",
             "documentation": "",
             "tdv": "https://youtu.be/OKMHHYKlnH0",
