@@ -32,6 +32,7 @@ It is supposed to gather all relevant resources in one place.
    :maxdepth: 1
    :caption: Awards & Team Documentation
 
+   competitions/rcj-2025/index
    competitions/rcj-2024/index
    competitions/rcj-2023/index
 
