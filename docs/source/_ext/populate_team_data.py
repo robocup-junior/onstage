@@ -211,16 +211,14 @@ class PopulateSuperteams(SphinxDirective):
                 if superteam.get('performance'):
                     content.append(f"  `Performance <{superteam['performance']}>`__\n")
 
-                for team in superteam['teams']:
-                    team_country = get_team_country(team, data)
-                    team_label = team.replace(' ', '_')
+                if superteam.get('teams'):
+                    content.append("Superteam members:\n")
 
-                    extra_blanks = ""
-
-                    if superteam.get('introduction') or superteam.get('performance'):
-                        extra_blanks = "  "
-                
-                    content.append(f"  {extra_blanks}:ref:`teams_{id}_{team_label}` ({team_country})\n")
+                    for team in superteam['teams']:
+                        team_country = get_team_country(team, data)
+                        team_label = team.replace(' ', '_')
+                    
+                        content.append(f"  :ref:`teams_{id}_{team_label}` ({team_country})\n")
                 
 
                 content.append( "\n")
