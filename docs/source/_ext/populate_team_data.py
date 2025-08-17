@@ -44,25 +44,26 @@ class PopulateTeams(SphinxDirective):
                 content.append(f"{team['name']}")
                 content.append( "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n")
                 
-                image_path = team['image']
-                abs_image_path = os.path.abspath(os.path.join(self.env.srcdir, image_path))
+                if team.get('image'):
+                    image_path = team['image']
+                    abs_image_path = os.path.abspath(os.path.join(self.env.srcdir, image_path))
 
-                if team.get('image') and os.path.exists(abs_image_path):
-                    resized_image_dir = "_static/images/resized"
-                    resized_image_suffix = "_resized"
-                    image_dir, image_name = os.path.split(image_path)
-                    image_name, image_ext = os.path.splitext(image_name)
-                    resized_image_path = f"{resized_image_dir}/{image_name}{resized_image_suffix}{image_ext}"
-                    abs_resized_image_path = os.path.abspath(os.path.join(self.env.srcdir, resized_image_path))
+                    if os.path.exists(abs_image_path):
+                        resized_image_dir = "_static/images/resized"
+                        resized_image_suffix = "_resized"
+                        image_dir, image_name = os.path.split(image_path)
+                        image_name, image_ext = os.path.splitext(image_name)
+                        resized_image_path = f"{resized_image_dir}/{image_name}{resized_image_suffix}{image_ext}"
+                        abs_resized_image_path = os.path.abspath(os.path.join(self.env.srcdir, resized_image_path))
 
-                    if resize_image(abs_image_path,abs_resized_image_path,250) != None:
-                        content.append(f"  .. image:: /{resized_image_path}")
-                        # Path to full size image won't be working when run locally, but is working through GitHub pages
-                        # Need to find a better solution in the future
-                        # TO DO
-                        content.append(f"    :target: /onstage/{image_path}")
-                        content.append( "    :align: left")
-                        content.append( "    :height: 250\n")
+                        if resize_image(abs_image_path,abs_resized_image_path,250) != None:
+                            content.append(f"  .. image:: /{resized_image_path}")
+                            # Path to full size image won't be working when run locally, but is working through GitHub pages
+                            # Need to find a better solution in the future
+                            # TO DO
+                            content.append(f"    :target: /onstage/{image_path}")
+                            content.append( "    :align: left")
+                            content.append( "    :height: 250\n")
 
                 if team.get('country'):
                     content.append(f"  {team['country']}\n")
@@ -183,25 +184,26 @@ class PopulateSuperteams(SphinxDirective):
                 content.append(f"{superteam['name']}")
                 content.append( "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n")
 
-                image_path = superteam['image']
-                abs_image_path = os.path.abspath(os.path.join(self.env.srcdir, image_path))
+                if superteam.get('image'):
+                    image_path = superteam['image']
+                    abs_image_path = os.path.abspath(os.path.join(self.env.srcdir, image_path))
 
-                if superteam.get('image') and os.path.exists(abs_image_path):
-                    resized_image_dir = "_static/images/resized"
-                    resized_image_suffix = "_resized"
-                    image_dir, image_name = os.path.split(image_path)
-                    image_name, image_ext = os.path.splitext(image_name)
-                    resized_image_path = f"{resized_image_dir}/{image_name}{resized_image_suffix}{image_ext}"
-                    abs_resized_image_path = os.path.abspath(os.path.join(self.env.srcdir, resized_image_path))
+                    if os.path.exists(abs_image_path):
+                        resized_image_dir = "_static/images/resized"
+                        resized_image_suffix = "_resized"
+                        image_dir, image_name = os.path.split(image_path)
+                        image_name, image_ext = os.path.splitext(image_name)
+                        resized_image_path = f"{resized_image_dir}/{image_name}{resized_image_suffix}{image_ext}"
+                        abs_resized_image_path = os.path.abspath(os.path.join(self.env.srcdir, resized_image_path))
 
-                    if resize_image(abs_image_path,abs_resized_image_path,250) != None:
-                        content.append(f"  .. image:: /{resized_image_path}")
-                        # Path to full size image won't be working when run locally, but is working through GitHub pages
-                        # Need to find a better solution in the future
-                        # TO DO
-                        content.append(f"    :target: /onstage/{image_path}")
-                        content.append( "    :align: left")
-                        content.append( "    :height: 250\n")       
+                        if resize_image(abs_image_path,abs_resized_image_path,250) != None:
+                            content.append(f"  .. image:: /{resized_image_path}")
+                            # Path to full size image won't be working when run locally, but is working through GitHub pages
+                            # Need to find a better solution in the future
+                            # TO DO
+                            content.append(f"    :target: /onstage/{image_path}")
+                            content.append( "    :align: left")
+                            content.append( "    :height: 250\n")       
 
                 if superteam.get('introduction'):
                     content.append(f"  `Introduction <{superteam['introduction']}>`__\n")
