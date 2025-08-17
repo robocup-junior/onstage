@@ -212,7 +212,7 @@ class PopulateSuperteams(SphinxDirective):
                     content.append(f"  `Performance <{superteam['performance']}>`__\n")
 
                 if superteam.get('teams'):
-                    content.append("Superteam members:\n")
+                    content.append("  Superteam members:\n")
 
                     for team in superteam['teams']:
                         team_country = get_team_country(team, data)
