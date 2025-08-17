@@ -166,7 +166,8 @@
                 "Nutella Brötchen"
             ],
             "introduction": "",
-            "performance": "https://youtu.be/CFnNkJqX1kU"
+            "performance": "https://youtu.be/CFnNkJqX1kU",
+            "image": "_static/competitions/rcj-2025/team-photos/2025_ST01.jpg"
         },
         {
             "name": "Summer Aurat Boots",
@@ -176,7 +177,8 @@
                 "AURAT"
             ],
             "introduction": "",
-            "performance": "https://youtu.be/kWffbVNWUKQ"
+            "performance": "https://youtu.be/kWffbVNWUKQ",
+            "image": "_static/competitions/rcj-2025/team-photos/2025_ST02.jpg"
         },
         {
             "name": "Hortoñerobots",
@@ -185,7 +187,8 @@
                 "Compañerobots"
             ],
             "introduction": "",
-            "performance": "https://youtu.be/9kk1TxLhIbM"
+            "performance": "https://youtu.be/9kk1TxLhIbM",
+            "image": "_static/competitions/rcj-2025/team-photos/2025_ST03.jpg"
         },
         {
             "name": "Carrera Por Salvador",
@@ -195,7 +198,8 @@
                 "My ROBOTIC neighbor"
             ],
             "introduction": "",
-            "performance": "https://youtu.be/Mrfhlm6DL8I"
+            "performance": "https://youtu.be/Mrfhlm6DL8I",
+            "image": "_static/competitions/rcj-2025/team-photos/2025_ST04.jpg"
         },
         {
             "name": "Aleinz",
@@ -205,7 +209,8 @@
                 "RC Lynx"
             ],
             "introduction": "",
-            "performance": "https://youtu.be/hNJZhGs9fb4"
+            "performance": "https://youtu.be/hNJZhGs9fb4",
+            "image": "_static/competitions/rcj-2025/team-photos/2025_ST05.jpg"
         }
     ],
     "superteam_awards":[
