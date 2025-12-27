@@ -5,7 +5,7 @@ The OnStage competition is offered to all team members that reached the minimum 
 
 The latest version of the official RoboCupJunior OnStage rules and scoresheets can be found here.
 
-2025
+2026
 ----
 
 Rules
@@ -18,7 +18,7 @@ Rules
 Scoresheets
 ^^^^^^^^^^^
 
-`Scoresheets <https://drive.google.com/file/d/19F--rdFpKCFRU8OXgRMaxXpdw2MywLpc/view?usp=sharing>`__
+`Scoresheets <https://drive.google.com/file/d/1jvwE1jxAhvRmbydkWktdPckta_eg8yQ-/view?usp=sharing>`__
 
 
 Previous versions
