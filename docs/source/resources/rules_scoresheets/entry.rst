@@ -10,7 +10,7 @@ The latest version of the official RoboCupJunior OnStage Entry rules and scoresh
 
    There will be no OnStage Entry league at the international RoboCupJunior event!
 
-2025
+2026
 ----
 
 Rules
