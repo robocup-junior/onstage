@@ -23,7 +23,7 @@ Rules
 Scoresheets
 ^^^^^^^^^^^
 
-`Scoresheets <https://drive.google.com/file/d/1Gn3mRMPNYsF8JYrdemEg_gMXf2S3XP3Q/view?usp=sharing>`__
+`Scoresheets <https://drive.google.com/file/d/1z-9gh19NHSSi0e6KRTbU8wYU489_zlHw/view?usp=sharing>`__
 
 
 Previous versions
