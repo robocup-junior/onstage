@@ -17,10 +17,11 @@ Before the interview, make sure your team can clearly explain:
 - How teamwork contributed to the development of the project (What was the work division?  - - What role each person had?). 
 - If you can explain it, you understand it.
 
+
 +-----------------------------------+-----------------------------------+
 |                   How to Answer During the Interview?                 |
 +===================================+===================================+
-|             Do this ✅            |            Avoid this ❌         | 
+|             Do this ✅           |            Avoid this ❌          | 
 +-----------------------------------+-----------------------------------+
 |Use clear and simple language.     | Memorized speeches.               |
 +-----------------------------------+-----------------------------------+
