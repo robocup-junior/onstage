@@ -49,7 +49,7 @@ Good Practice for Using Props
 - A glove with a QR code (static prop) triggers an action on a robot when it scans the QR code.
 
 
-Key Message
+🗝Key Message
 ------------
 **Quality over quantity:**
 A small number of well-designed interactive props is far more effective than a stage filled with static decorations.
