@@ -65,6 +65,7 @@ During the technical interview, the judges will ask a variety of questions. The 
 They want to see that the team understands their project including the choices of the language, design, and code, not just that it works. And how and why the team made those choices for the project.
 
 *Simple tips:*
+
 - Explain why you have chosen the programming language (e.g., Python, C++, blocks).
 - Describe how the code is organized (e.g., functions, modules, comments).
 - Talk about how you optimized performance (e.g., speed, accuracy, reliability).
@@ -77,11 +78,13 @@ They want to know if the team understands how the robot was developed and works 
 
 *Simple tips:*
 Be ready to explain:
+
 - Why you have chosen: this microcontroller, these sensors and motors, these materials.
 - How different parts communicate and work together
 - How your robot detects the environment, makes decisions, and/or reacts to unexpected situations.
 
 Important details to mention:
+
 - Power and battery choices
 - Stability, balance, and movement;
 - Sensor choices,
@@ -93,8 +96,9 @@ Important details to mention:
 They want to see intentional and original design choices, not random ones. For instance, if you chose to use computer vision to guide the robot to a spot on stage instead of using the line following solution, explain the choice of that technology. Why does it fit your performance? What advantages and disadvantages did you consider in the decision process?
 
 *Simple tips:*
-Explain what makes your solution effective or innovative.
-Talk about: the precision, reliability, and durability of your project.
+
+- Explain what makes your solution effective or innovative.
+- Talk about: the precision, reliability, and durability of your project.
 
 **3.4. Engineering Design Process**
 *What judges are looking for: *
@@ -102,6 +106,7 @@ They want to understand how your team learned, improved, and made decisions over
 
 *Simple tips:*
 Be ready to explain:
+
 - Your iteration process: What was your first idea? What worked and didn’t work? Why? What did you change and why?
 - Collaboration: How did the team work together during design and testing?
 - Problem-solving: How did you solve software and hardware challenges as a team?
@@ -113,6 +118,7 @@ They want to see learning during the process,  both technical and personal!
 
 *Simple tips*
 Talk about:
+
 - New technical skills learned (e.g., coding, electronics, mechanics, AI).
 - Engineering skill (e.g.,  testing, debugging, calibration, and/or system thinking).
 - Soft skills (e.g., communication, teamwork, problem-solving, and/or time management).
@@ -122,6 +128,7 @@ Talk about:
 Clear evidence that the whole team contributed.
 
 *Simple tips:*
+
 - Explain who did what, but also how tasks were connected and team members collaborated.
 - Redirect the judges to the member who contributed to a specific part of the robot development (i.e. coding, design of the electric-circuit, or construction)
 - Demonstrate that decisions were made together.
@@ -131,10 +138,12 @@ Clear evidence that the whole team contributed.
 The live demonstration of selected features will happen during the interview when you’re asked to explain your four features.
 *What judges are looking for:*
 Judges want to see if the four selected features work reliably and consistently. **Before the demonstration**, 
+
 - make sure that your robots are stable and well-tested, and
 - practice demonstrating by focusing on each feature several times before the interview.
 
 *Prepare a short explanation for each feature:*
+
 - What does this feature do?
 - How does it work?
 - Why is this feature important to the project?
@@ -142,9 +151,12 @@ Judges want to see if the four selected features work reliably and consistently.
 - Why did the team choose this feature instead of others?
 
 *During the demonstration:*
+
 - Clearly announce each feature before showing it.
 - Keep explanations short and focused.
+
 If something goes wrong:
+
 - Stay calm and professional.
 - Explain what happened.
 - Mistakes are part of the process. Describe what you would improve or fix in the next iteration.
@@ -153,6 +165,7 @@ If something goes wrong:
 4. Final Takeaway 💡
 ------------------------------
 Judges want to know:
+
 - The process (testing, iteration, and improvement);
 - The engineering and technical skills (software, hardware, systems, and technology choices) used during your project;
 - The learning and growth throughout the project;
