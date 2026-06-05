@@ -5,58 +5,63 @@ The interview is an opportunity for judges to better understand your project, yo
 
 See 6.1 of the OnStage rules 2026 and the OnStage Score Sheets for the Technical Interview 2026.
 
-1. Before the Interview: Know Your Story
+1. Before the Interview: Know Your Story 👀
 ------------------------------
 Judges are not only evaluating the robot — they are ALSO evaluating how you prepare for the competition, how well you understand what you built, and what you have learned through the experience. The judges are not expecting teams to prepare formal presentation slides or follow a scripted presentation. The interview will be conducted as a question-and-answer conversation with the team. 
 
 Before the interview, make sure your team can clearly explain:
+
 - Why you have chosen this solution
 - How it works — how you programmed the software and how you built the hardware. Be ready to mention either how you designed the PCB board or why you chose any electronic module
 - What challenges you faced and how you solved/overcome them
 - How teamwork contributed to the development of the project (What was the work division?  - - What role each person had?). 
 - If you can explain it, you understand it.
 
-.. list-table::
-   :header-rows: 2
++-----------------------------------+-----------------------------------+
+|                   How to Answer During the Interview?                 |
++===================================+===================================+
+|             Do this ✅            |            Avoid this ❌         | 
++-----------------------------------+-----------------------------------+
+|Use clear and simple language.     | Memorized speeches.               |
++-----------------------------------+-----------------------------------+
+|Let different team members answer. | Letting only one person talk.     |
++-----------------------------------+-----------------------------------+
+|Show diagrams, code, and the robot | Show diagrams, code, and the      |
+|itself.                            | robot itself.                     |
++-----------------------------------+-----------------------------------+
+|Saying "it simply works" without   | Be honest if something didn’t work|
+|explaining how.                    | — and explain what you learned.   |
++-----------------------------------+-----------------------------------+
+|Avoiding questions you don’t know. | Gesture recognition               |
++-----------------------------------+-----------------------------------+
 
-   * How to Answer During the Interview?
-   * - Do this ✅
-     - Avoid this ❌
-   * - Use clear and simple language.
-     - Memorized speeches.
-   * - Let different team members answer.
-     - Letting only one person talk.
-   * - Show diagrams, code, and the robot itself.
-     - Saying "it simply works" without explaining how.
-   * - Be honest if something didn’t work — and explain what you learned.
-   * - Avoiding questions you don’t know.
-     - Gesture recognition
 
 Each team member should understand not only their own role, but also the contributions of the other members and how the different parts of the project connect together. If you can clearly explain your project, it demonstrates a strong understanding of what you built.
 
 It is also recommended that teams document the evolution of the project, from the initial ideas to the implementation phases, including testing, adjustments, and problem-solving throughout the development process.
 
-2. Preparing for your Interview
+2. Preparing for your Interview 🎙
 ------------------------------
 Teams should be prepared to demonstrate their robots and explain features in practice during the interview, including the live demonstration of selected features. Before you enter the interview room make sure that all robots, controllers, and props to be displayed are fully functional.. Check batteries, sensors, communication systems, and moving parts shortly before the interview to ensure everything is operating properly.  Bring evidence of your software and be prepared to show the software environments and your code.
 
 Do your team have the following ready?
-☐ All robots are fully functional
-☐ Batteries are fully charged
-☐ Sensors are working properly
-☐ Communication systems are connected and stable
-☐ Motors and moving parts are functioning correctly
-☐ Controllers are working
-☐ Props and stage elements are prepared and functional
-☐ Team laptops/computers are charged and available
-☐ The latest version of the source code is accessible on the computer
-☐ Team members are prepared to explain the programming logic and algorithms used
-☐ Backup files or copies of the code are saved and organized
-☐ Required software and drivers are installed and working properly
-☐ Code and design diagrams are open on the laptop
+
+| ☐ All robots are fully functional
+| ☐ Batteries are fully charged
+| ☐ Sensors are working properly
+| ☐ Communication systems are connected and stable
+| ☐ Motors and moving parts are functioning correctly
+| ☐ Controllers are working
+| ☐ Props and stage elements are prepared and functional
+| ☐ Team laptops/computers are charged and available
+| ☐ The latest version of the source code is accessible on the computer
+| ☐ Team members are prepared to explain the programming logic and algorithms used
+| ☐ Backup files or copies of the code are saved and organized
+| ☐ Required software and drivers are installed and working properly
+| ☐ Code and design diagrams are open on the laptop
 
 
-3. During the Interview: Share Your Story
+3. During the Interview: Share Your Story 🎞
 ------------------------------
 During the technical interview, the judges will ask a variety of questions. The team should be able to share your story clearly, responding to the following points. Rather than simply describing the technical aspects of the performance, they should communicate the team’s journey.
 
