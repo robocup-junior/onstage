@@ -6,3 +6,5 @@ Resources for teams
 
    how_to_features
    how_to_perform
+   rules_supplementary
+   props
