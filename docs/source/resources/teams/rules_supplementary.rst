@@ -1,33 +1,6 @@
 Q & A - Rule's supplementary document
 ==============================================
 
-� What are props? How should we use them during an OnStage performance?
-------------
-
-A **prop** is an object used on a stage during a performance.  Props should only be used if they make the robotic performance better.
-
-**⛓️‍💥Interactive** props are objects that can interact with other robots with sensors and/or actuators. If you plan to use props during the performance this is the type of prop that is encouraged.	Interactive props can be wearable objects that interact with the robots, for example, a glove.
-
-**🧱Static props** are non-interactive objects, such as cardboard scenery that robots or other interactive props on stage do not interact with.  Static props are like decorations on the stage. Static props can be set on stage if they are used by robots or interactive props to interact with.  However, they can make it difficult for the robot performances to be seen by the judges and audience.  Teams can use the backdrop to “set the scene”.  If they do not add significant value to the performance as a whole, teams should consider turning them into **interactive props** or use less static props on the stage.
-
-Teams are encouraged to use portable, *not too large*, interactive props that contribute to the robotic performance.  Teams are not rewarded for filling the stage with static props; these are ignored for judging.  Props should be kept *small and light weight*.  Teams must be able to move the props and robots without assistance.  Teams are encouraged to use sustainable and recycled materials for props.
-
-**🗝Key Rules and Restrictions**
-
-- Location: All props must fit within the defined 5m x 4m stage boundary.
-- Safety: No hazardous substances, projectiles, fire, smoke, or water are allowed.
-- Electricity: Nothing should be plugged into 240v mains electricity, including props.
-- Focus: The focus must remain on the robots, not the props or humans. 
-
-**Examples of props good to be used during a performance include:**
-
-- A wall  that is used by a robot to show how it can  avoid the wall. The wall is a static prop.
-- A door that opens when a robot gets close to it either by the robot sending a signal to the door to signal or the door has a sensor that detect the robot getting closer. The wall is an interactive prop as it uses sensors to interact with the robot.
-- A tree that receives a signal from the door (in the above example) and swings.  The tree and door are interactive props. 
-
-You can watch past performances on our YouTube channel for inspiration! https://www.youtube.com/@rcjonstage
-
-
 � How can we make our robotics performance “innovative”?
 ------------
 
@@ -74,3 +47,29 @@ A static prop may be moved during the performance if it is part of the storyline
 ------------
 The interview is meant to be a conversation between the judges and the team, so there is no need to prepare formal presentation slides or memorize a script. Judges are much more interested in hearing the team explain the project naturally, demonstrating the robots, and answering questions about the design process, programming, challenges, and chosen features.
 You are welcome to use your poster or simple visual materials to help explain ideas if needed, but focus mainly on being prepared to discuss and demonstrate your project confidently as a team.
+
+� What are props? How should we use them during an OnStage performance?
+------------
+
+A **prop** is an object used on a stage during a performance.  Props should only be used if they make the robotic performance better.
+
+**⛓️‍💥Interactive** props are objects that can interact with other robots with sensors and/or actuators. If you plan to use props during the performance this is the type of prop that is encouraged.	Interactive props can be wearable objects that interact with the robots, for example, a glove.
+
+**🧱Static props** are non-interactive objects, such as cardboard scenery that robots or other interactive props on stage do not interact with.  Static props are like decorations on the stage. Static props can be set on stage if they are used by robots or interactive props to interact with.  However, they can make it difficult for the robot performances to be seen by the judges and audience.  Teams can use the backdrop to “set the scene”.  If they do not add significant value to the performance as a whole, teams should consider turning them into **interactive props** or use less static props on the stage.
+
+Teams are encouraged to use portable, *not too large*, interactive props that contribute to the robotic performance.  Teams are not rewarded for filling the stage with static props; these are ignored for judging.  Props should be kept *small and light weight*.  Teams must be able to move the props and robots without assistance.  Teams are encouraged to use sustainable and recycled materials for props.
+
+**🗝Key Rules and Restrictions**
+
+- Location: All props must fit within the defined 5m x 4m stage boundary.
+- Safety: No hazardous substances, projectiles, fire, smoke, or water are allowed.
+- Electricity: Nothing should be plugged into 240v mains electricity, including props.
+- Focus: The focus must remain on the robots, not the props or humans. 
+
+**Examples of props good to be used during a performance include:**
+
+- A wall  that is used by a robot to show how it can  avoid the wall. The wall is a static prop.
+- A door that opens when a robot gets close to it either by the robot sending a signal to the door to signal or the door has a sensor that detect the robot getting closer. The wall is an interactive prop as it uses sensors to interact with the robot.
+- A tree that receives a signal from the door (in the above example) and swings.  The tree and door are interactive props. 
+
+You can watch past performances on our YouTube channel for inspiration! https://www.youtube.com/@rcjonstage
