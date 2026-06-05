@@ -5,6 +5,6 @@ Resources for teams
    :maxdepth: 1
 
    how_to_features
-   how_to_perform
    rules_supplementary
    props
+   interview_guideline
