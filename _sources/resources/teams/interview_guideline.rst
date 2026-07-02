@@ -20,7 +20,7 @@ Before the interview, make sure your team can clearly explain:
 
 How to answer during the Interview?
 
-+===================================+===================================+
++-----------------------------------+-----------------------------------+
 |             **Do this**           |            **Avoid this**         | 
 +=======================================================================+
 |Use clear and simple language.     | Memorized speeches.               |
