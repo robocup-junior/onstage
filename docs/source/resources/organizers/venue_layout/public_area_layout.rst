@@ -50,19 +50,59 @@ During performances, two timers must be displayed on a separate screen:
 Equipment required:
 
 - TV screen (~48 inches) placed near the stage
-- Dedicated computer at the FOH
+- Dedicated computer at the judges table to control the timers
 
 Recommended software for displaying the timers:
 
-- **Countdown Timer:** `Webuhr Online Timer <https://webuhr.de/timer/#countdown=00:07:00&enabled=0&seconds=420&onzero=2&title=Stage+Time&showmessage=0&sound=xylophone&loop=1>`__ in fullscreen mode
-- **Stopwatch:** Windows stopwatch in pinned mode to ensure it remains visible above the countdown
+- **Timer software** `Webuhr Online Timer <https://stagetimer.io/>`__
+- **Screen control software** `Dashmaster 2k <https://app.dashmaster2k.com/>`__ (Paid version is very affordable in the montly subscription and gives a clean look on the screen)
 
 .. figure:: /_static/resources/organizers/timer_screen.webp
    :figwidth: 50%
    :align: center
-   :alt: Screenshot showing a 7-minute countdown timer and a stopwatch
+   :alt: Screenshot showing a 7-minute countdown timer and a stopwatch timer counting up
 
    Exemplary timer screen layout
+
+Setup
+^^^^^
+
+1. Create two new *Rooms* in stagetimer.io
+
+   a. Room 1:
+
+      - Name / Title: Stage time
+      - Start: Manual
+      - Duration: 00:07:00
+      - Appearance: Countdown
+      - Wrap-up times, yellow: 01:00, red: 00:30
+
+   b. Room 2:
+
+      - Name / Title: Performance time
+      - Start: Manual
+      - Duration: 00:01:30
+      - Appearance: Count Up
+
+2. Create *Controller* Views for the Judges controlling the timer
+
+   a. Select *Output Links*
+   b. *Viewer*
+   c. Send link to Judges device and open in new browser tab
+   d. Repeat the same for the other *Room* and open this link in a different browser tab
+   c. Place browser tabs next to each other
+
+3. Create a new *Daskmaster 2k* view
+   
+   a. Adjust view to show two elements only
+   b. Edit views to show *stagetimer.io* content
+   c. Grab *Stagetimer Room ID* from stagetimer.io URL: e.g. https://stagetimer.io/r/**K1I22P9N**/controller/ would be K1I22P9N
+   d. Paste ID of both rooms in the two views
+
+4. Share *Dashboard URL* with the Timer screen (either direcly on a Smart TV or though a separate computer). Hiding header and footer is possible with paid subscription.
+
+.. TIP::
+   Using a wired internet connection for viewing and controlling device is recommended, as Wifi will lead to a higher latency!
 
 **Alternative to TV screen:**
 Two sports timers that can be remotely controlled from the judges' table
