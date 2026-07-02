@@ -358,7 +358,10 @@ document.write(`
                 <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#audio-pa-system">Audio / PA-System</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#video-system">Video System</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#timer-system">Timer System</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#timer-system">Timer System</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#setup">Setup</a></li>
+</ul>
+</li>
 </ul>
             </nav>
         </div>
@@ -414,24 +417,72 @@ document.write(`
 <p>Equipment required:</p>
 <ul class="simple">
 <li><p>TV screen (~48 inches) placed near the stage</p></li>
-<li><p>Dedicated computer at the FOH</p></li>
+<li><p>Dedicated computer at the judges table to control the timers</p></li>
 </ul>
 <p>Recommended software for displaying the timers:</p>
 <ul class="simple">
-<li><p><strong>Countdown Timer:</strong> <a class="reference external" href="https://webuhr.de/timer/#countdown=00:07:00&amp;enabled=0&amp;seconds=420&amp;onzero=2&amp;title=Stage+Time&amp;showmessage=0&amp;sound=xylophone&amp;loop=1" rel="noopener noreferrer" target="_blank">Webuhr Online Timer</a> in fullscreen mode</p></li>
-<li><p><strong>Stopwatch:</strong> Windows stopwatch in pinned mode to ensure it remains visible above the countdown</p></li>
+<li><p><strong>Timer software</strong> <a class="reference external" href="https://stagetimer.io/" rel="noopener noreferrer" target="_blank">Webuhr Online Timer</a></p></li>
+<li><p><strong>Screen control software</strong> <a class="reference external" href="https://app.dashmaster2k.com/" rel="noopener noreferrer" target="_blank">Dashmaster 2k</a> (Paid version is very affordable in the montly subscription and gives a clean look on the screen)</p></li>
 </ul>
 <figure class="align-center" id="id2" style="width: 50%">
-<img alt="Screenshot showing a 7-minute countdown timer and a stopwatch" src="../../../_images/timer_screen.webp" />
+<img alt="Screenshot showing a 7-minute countdown timer and a stopwatch timer counting up" src="../../../_images/timer_screen.webp" />
 <figcaption>
 <p><span class="caption-text">Exemplary timer screen layout</span><a class="headerlink" href="#id2" title="Link to this image">#</a></p>
 </figcaption>
 </figure>
+<section id="setup">
+<h3>Setup<a class="headerlink" href="#setup" title="Link to this heading">#</a></h3>
+<ol class="arabic">
+<li><p>Create two new <em>Rooms</em> in stagetimer.io</p>
+<ol class="loweralpha simple">
+<li><p>Room 1:</p>
+<ul class="simple">
+<li><p>Name / Title: Stage time</p></li>
+<li><p>Start: Manual</p></li>
+<li><p>Duration: 00:07:00</p></li>
+<li><p>Appearance: Countdown</p></li>
+<li><p>Wrap-up times, yellow: 01:00, red: 00:30</p></li>
+</ul>
+</li>
+<li><p>Room 2:</p>
+<ul class="simple">
+<li><p>Name / Title: Performance time</p></li>
+<li><p>Start: Manual</p></li>
+<li><p>Duration: 00:01:30</p></li>
+<li><p>Appearance: Count Up</p></li>
+</ul>
+</li>
+</ol>
+</li>
+<li><p>Create <em>Controller</em> Views for the Judges controlling the timer</p>
+<ol class="loweralpha simple">
+<li><p>Select <em>Output Links</em></p></li>
+<li><p><em>Viewer</em></p></li>
+<li><p>Send link to Judges device and open in new browser tab</p></li>
+</ol>
+<p>d. Repeat the same for the other <em>Room</em> and open this link in a different browser tab
+c. Place browser tabs next to each other</p>
+</li>
+<li><p>Create a new <em>Daskmaster 2k</em> view</p>
+<ol class="loweralpha simple">
+<li><p>Adjust view to show two elements only</p></li>
+<li><p>Edit views to show <em>stagetimer.io</em> content</p></li>
+<li><p>Grab <em>Stagetimer Room ID</em> from stagetimer.io URL: e.g. <a class="reference external" href="https://stagetimer.io/r/" rel="noopener noreferrer" target="_blank">https://stagetimer.io/r/</a><strong>K1I22P9N</strong>/controller/ would be K1I22P9N</p></li>
+<li><p>Paste ID of both rooms in the two views</p></li>
+</ol>
+</li>
+<li><p>Share <em>Dashboard URL</em> with the Timer screen (either direcly on a Smart TV or though a separate computer). Hiding header and footer is possible with paid subscription.</p></li>
+</ol>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>Using a wired internet connection for viewing and controlling device is recommended, as Wifi will lead to a higher latency!</p>
+</div>
 <p><strong>Alternative to TV screen:</strong>
 Two sports timers that can be remotely controlled from the judges’ table</p>
 <figure class="align-center" style="width: 50%">
 <img alt="Sports timer" src="../../../_images/sports_timer.webp" />
 </figure>
+</section>
 </section>
 </section>
 
@@ -482,7 +533,10 @@ Two sports timers that can be remotely controlled from the judges’ table</p>
     <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#audio-pa-system">Audio / PA-System</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#video-system">Video System</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#timer-system">Timer System</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#timer-system">Timer System</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#setup">Setup</a></li>
+</ul>
+</li>
 </ul>
   </nav></div>
 
