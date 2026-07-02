@@ -22,7 +22,7 @@ How to answer during the Interview?
 
 +-----------------------------------+-----------------------------------+
 |             **Do this**           |            **Avoid this**         | 
-+=======================================================================+
++===================================+===================================+
 |Use clear and simple language.     | Memorized speeches.               |
 +-----------------------------------+-----------------------------------+
 |Let different team members answer. | Letting only one person talk.     |
@@ -30,10 +30,8 @@ How to answer during the Interview?
 |Show diagrams, code, and the robot | Show diagrams, code, and the      |
 |itself.                            | robot itself.                     |
 +-----------------------------------+-----------------------------------+
-|Saying "it simply works" without   | Be honest if something didn’t work|
-|explaining how.                    | — and explain what you learned.   |
-+-----------------------------------+-----------------------------------+
-|Avoiding questions you don’t know. | Gesture recognition               |
+|Be honest if something didn’t work | Saying "it simply works" without  |
+|— and explain what you learned.    | explaining how.                   |
 +-----------------------------------+-----------------------------------+
 
 Each team member should understand not only their own role, but also the contributions of the other members and how the different parts of the project connect together. If you can clearly explain your project, it demonstrates a strong understanding of what you built.
