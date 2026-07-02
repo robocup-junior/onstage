@@ -54,7 +54,7 @@ Equipment required:
 
 Recommended software for displaying the timers:
 
-- **Timer software** `Webuhr Online Timer <https://stagetimer.io/>`__
+- **Timer software** `Stagetimer.io <https://stagetimer.io/>`__
 - **Screen control software** `Dashmaster 2k <https://app.dashmaster2k.com/>`__ (Paid version is very affordable in the montly subscription and gives a clean look on the screen)
 
 .. figure:: /_static/resources/organizers/timer_screen.webp
@@ -90,13 +90,13 @@ Setup
    b. *Viewer*
    c. Send link to Judges device and open in new browser tab
    d. Repeat the same for the other *Room* and open this link in a different browser tab
-   c. Place browser tabs next to each other
+   e. Place browser tabs next to each other
 
 3. Create a new *Daskmaster 2k* view
    
    a. Adjust view to show two elements only
    b. Edit views to show *stagetimer.io* content
-   c. Grab *Stagetimer Room ID* from stagetimer.io URL: e.g. https://stagetimer.io/r/**K1I22P9N**/controller/ would be K1I22P9N
+   c. Grab *Stagetimer Room ID* from stagetimer.io URL: e.g. https://stagetimer.io/r/K1I22P9N/controller/ would be *K1I22P9N*
    d. Paste ID of both rooms in the two views
 
 4. Share *Dashboard URL* with the Timer screen (either direcly on a Smart TV or though a separate computer). Hiding header and footer is possible with paid subscription.
@@ -111,3 +111,6 @@ Two sports timers that can be remotely controlled from the judges' table
    :figwidth: 50%
    :align: center
    :alt: Sports timer
+
+.. WARNING::
+   It is required to make sure, that the timers don't both react on the same remote control signal, so they can be started and stopped independently!
