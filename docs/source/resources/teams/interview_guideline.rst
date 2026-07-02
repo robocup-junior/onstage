@@ -18,11 +18,11 @@ Before the interview, make sure your team can clearly explain:
 - How teamwork contributed to the development of the project (What was the work division?  - - What role each person had?). 
 - If you can explain it, you understand it.
 
-+-----------------------------------+-----------------------------------+
-|                   How to Answer During the Interview?                 |
+How to answer during the Interview?
+
 +===================================+===================================+
 |             **Do this**           |            **Avoid this**         | 
-+-----------------------------------+-----------------------------------+
++=======================================================================+
 |Use clear and simple language.     | Memorized speeches.               |
 +-----------------------------------+-----------------------------------+
 |Let different team members answer. | Letting only one person talk.     |
@@ -116,7 +116,7 @@ They want to see intentional and original design choices, not random ones. For i
 Engineering Design Process
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-*What judges are looking for: *
+*What judges are looking for:*
 They want to understand how your team learned, improved, and made decisions over time, not just the final robot. What they are focusing here is not just the innovative ideas (3.3), but rather the trial and errors in the process and what you learned with each version of the software/hardware.
 
 *Simple tips:*
@@ -188,8 +188,8 @@ Final Takeaway
 
 Judges want to know:
 
-- The process (testing, iteration, and improvement);
-- The engineering and technical skills (software, hardware, systems, and technology choices) used during your project;
-- The learning and growth throughout the project;
-- The teamwork and collaboration;
-- The team’s ability to clearly explain, justify, and reflect on your decisions on their project.
+- The process (testing, iteration, and improvement)
+- The engineering and technical skills (software, hardware, systems, and technology choices) used during your project
+- The learning and growth throughout the project
+- The teamwork and collaboration
+- The team’s ability to clearly explain, justify, and reflect on your decisions on their project

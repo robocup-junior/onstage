@@ -29,7 +29,7 @@ Static props are *non-interactive objects* used for decoration and “scene sett
 - Examples: cardboard scenery, painted backdrops, stage decorations
 - Can make it harder for judges and the audience to see the robots clearly
 
-**static props should make a significant contribution** to the overall performance.
+**Static props should make a significant contribution** to the overall performance.
 
 Teams should:
 
