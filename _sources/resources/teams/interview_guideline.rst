@@ -90,17 +90,17 @@ They want to know if the team understands how the robot was developed and works 
 *Simple tips:*
 Be ready to explain:
 
-- Why you have chosen: this microcontroller, these sensors and motors, these materials.
+- Why you have chosen: this microcontroller, these sensors and motors, these materials
 - How different parts communicate and work together
 - How your robot detects the environment, makes decisions, and/or reacts to unexpected situations.
 
 Important details to mention:
 
 - Power and battery choices
-- Stability, balance, and movement;
-- Sensor choices,
-- Mechanical design (custom parts, gears, structures);
-- Sustainability choices, if any.
+- Stability, balance, and movement
+- Sensor choices
+- Mechanical design (custom parts, gears, structures)
+- Sustainability choices, if any
 
 Technology Choice & Difficulty Level
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
