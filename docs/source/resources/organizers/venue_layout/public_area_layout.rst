@@ -111,3 +111,6 @@ Two sports timers that can be remotely controlled from the judges' table
    :figwidth: 50%
    :align: center
    :alt: Sports timer
+
+.. WARNING::
+   It is required to make sure, that the timers don't both react on the same remote control signal, so they can be started and stopped independently!
