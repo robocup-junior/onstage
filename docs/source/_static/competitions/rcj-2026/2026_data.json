@@ -1,0 +1,356 @@
+{
+    "teams":[
+        {
+            "name": "Aquagaurdian",
+            "country": "India",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_O01.jpg",
+            "poster": "https://drive.google.com/open?id=1VLZCCfjVPVpzDlUJB7cNGutnfBrs5vRg/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/hdNRIXA4caM",
+            "performance": ""
+        },
+        {
+            "name": "atheAmadeus",
+            "country": "Germany",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_O02.jpg",
+            "poster": "https://drive.google.com/open?id=1LSy4wK4aRxpuH8IHc2ONqeWKbZ7hHJ3J/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/Qw6OuMdSEbo",
+            "performance": ""
+        },
+        {
+            "name": "Dino Nuggies",
+            "country": "Australia",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_O03.jpg",
+            "poster": "https://drive.google.com/open?id=1ynrzwm-aGFD8ObYUX351BEQrKzJao_nE/preview",
+            "documentation": "https://lcs.ipto.com.au/Students/dinonuggies/index.html",
+            "tdv": "https://youtu.be/SO8c_N4BpR8",
+            "performance": ""
+        },
+        {
+            "name": "Dino Robotics",
+            "country": "Sweden",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_O04.jpg",
+            "poster": "https://drive.google.com/open?id=1QFHddwOLr6plz9Az2vIsfROkssIcGtZn/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/5iIwAM-Hn8o",
+            "performance": ""
+        },
+        {
+            "name": "Future: Genesis",
+            "country": "Canada",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_O05.jpg",
+            "poster": "https://drive.google.com/open?id=1a8dfBvYTynrml9dSSz7YyjZfF4J-C14x/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/r626U4yzFM8",
+            "performance": ""
+        },
+        {
+            "name": "GPTteam",
+            "country": "Kazakhstan",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_O06.jpg",
+            "poster": "https://drive.google.com/open?id=1CsC0J2noBsYvkm60VzNq6SWSuiFJs4E9/preview",
+            "documentation": "https://github.com/pyp101010188/GPTTeam",
+            "tdv": "https://youtu.be/24m6mlsOfi8",
+            "performance": ""
+        },
+        {
+            "name": "Gymonika",
+            "country": "Slovakia",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_O07.jpg",
+            "poster": "https://drive.google.com/open?id=1O2i56c7H3ICQO-agTM39dSTcEWx9OfKs/preview",
+            "documentation": "https://github.com/Jupicekk/RoboCup-programs",
+            "tdv": "https://youtu.be/G3oZf8UdsaY",
+            "performance": ""
+        },
+        {
+            "name": "House of idea",
+            "country": "Iran",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_O08.jpg",
+            "poster": "https://drive.google.com/open?id=1yyfXpUG6NoBn_kaQX0mNLLZzz8Cs5NZ9/preview",
+            "documentation": "https://github.com/SKYBARonstage",
+            "tdv": "https://youtu.be/_byhJrFTGjk",
+            "performance": ""
+        },
+        {
+            "name": "Hu-More-Bot",
+            "country": "Hungary",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_O09.jpg",
+            "poster": "https://drive.google.com/open?id=1M9WA8QoulcmOt-7LuiLTfnoa46R8mDCW/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/GCZmBI5DpSw",
+            "performance": ""
+        },
+        {
+            "name": "LiceBotica",
+            "country": "Portugal",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_O10.jpg",
+            "poster": "https://drive.google.com/open?id=1pkqsmCWNnemJrNHnfuCYNlkyAyfUauEs/preview",
+            "documentation": "https://github.com/vieiraLuisa/LiceBotica",
+            "tdv": "https://youtu.be/qlacI-GnbYc",
+            "performance": ""
+        },
+        {
+            "name": "MAGIC HUNTERS N2",
+            "country": "Brazil",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_O11.jpg",
+            "poster": "https://drive.google.com/open?id=13EGUrTFkvNVBahlHggkBJmwgozY8CShg/preview",
+            "documentation": "https://drive.google.com/drive/folders/13gkxtnaNAywJsxaWnlcPuqM_If-mqeVQ?usp=drive_link",
+            "tdv": "https://youtu.be/S5PxwU1wg-E",
+            "performance": ""
+        },
+        {
+            "name": "Meiden MECHA FORCE",
+            "country": "Japan",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_O12.jpg",
+            "poster": "https://drive.google.com/open?id=1gpMWO3W0dcwQROak9U-j1M_zXafHXUxi/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/NpgAa2oJzZY",
+            "performance": ""
+        },
+        {
+            "name": "Meiden RSP",
+            "country": "Japan",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_O13.jpg",
+            "poster": "https://drive.google.com/open?id=1Ch2L9HfsCBeiDSHvxnlm8qOWXUjYA8Yh/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/Gt4og3ESs4A",
+            "performance": ""
+        },
+        {
+            "name": "OZRIT3",
+            "country": "Slovakia",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_O14.jpg",
+            "poster": "https://drive.google.com/open?id=1WbHk8XXv0SycI7hcLsnV8i_KzEv37AxA/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/jhvUJEGphCA",
+            "performance": ""
+        },
+        {
+            "name": "Pinguberry",
+            "country": "Brazil",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_O15.jpg",
+            "poster": "https://drive.google.com/open?id=1pOK5qN1yuOQT0oyE_dRDydfXpozrP7qU/preview",
+            "documentation": "https://github.com/PinguBerry/Robocup-Jr-OnStage-2026",
+            "tdv": "https://youtu.be/F5YirNYXiAI",
+            "performance": ""
+        },
+        {
+            "name": "Potato Cooking",
+            "country": "China",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_O16.jpg",
+            "poster": "https://drive.google.com/file/d/1SB_KExXPRZ1teOWucIIJ2cWOGklC6XTK/view?usp=sharing/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/J4ovKNRdJGo",
+            "performance": ""
+        },
+        {
+            "name": "RC VOLTIUM",
+            "country": "Mexico",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_O17.jpg",
+            "poster": "https://drive.google.com/open?id=1_xjlnYZnRH8_ss_SeqpL1e2sDmqZuWwb/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/fwfKixlSE_s",
+            "performance": ""
+        },
+        {
+            "name": "Revenant",
+            "country": "Italy",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_O18.jpg",
+            "poster": "https://drive.google.com/open?id=1z-mHVhfZucqG0yPUzy0cy1A8f7J4PoI6/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/cl-Le6oTWdg",
+            "performance": ""
+        },
+        {
+            "name": "ROBOSHOW",
+            "country": "Israel",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_O19.jpg",
+            "poster": "https://drive.google.com/open?id=1H9iKMspT4Dro9KQMYTr6CYdKBnK8pXh8/preview",
+            "documentation": "https://github.com/TheTeam11/RoboShow",
+            "tdv": "https://youtu.be/1ypMBEJskPg",
+            "performance": ""
+        },
+        {
+            "name": "SR DEV",
+            "country": "USA",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_O20.jpg",
+            "poster": "https://drive.google.com/open?id=1RRuDk98XPrH1UlOv5U682wnS_pbilnMg/preview",
+            "documentation": "https://github.com/VedaangV/OnStage-25-26/tree/master",
+            "tdv": "https://youtu.be/NbbBo8icJNU",
+            "performance": ""
+        },
+        {
+            "name": "TH(AI) Temple Fair",
+            "country": "Thailand",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_O21.jpg",
+            "poster": "https://drive.google.com/open?id=1NPXP3fL8JVvTjYZvURT8LD5yGd9PIX5k/preview",
+            "documentation": "https://github.com/thaitemplefair67-hash",
+            "tdv": "https://youtu.be/3R6rGozVAz8",
+            "performance": ""
+        },
+        {
+            "name": "The Pawgrammers",
+            "country": "Singapore",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_O22.jpg",
+            "poster": "https://drive.google.com/open?id=1zb9ahXCyIdU9053OhrkNJcb7XZaxWLJF/preview",
+            "documentation": "https://github.com/themailcat/The_Pawgrammers#",
+            "tdv": "https://youtu.be/PsIitlbbiic",
+            "performance": ""
+        },
+        {
+            "name": "The time travelers",
+            "country": "Austria",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_O23.jpg",
+            "poster": "https://drive.google.com/open?id=1hwXljlXf3xDiN8DJEkbMLeO5W72AgR5L/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/UAz8-YctlWs",
+            "performance": ""
+        },
+        {
+            "name": "TRIUMPH",
+            "country": "Republic of Korea",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_O24.jpg",
+            "poster": "https://drive.google.com/open?id=1lRasxm9NT5a2sMHUPT4MOCb_ey3ptqG9/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/DVOGo6k9G-0",
+            "performance": ""
+        },
+        {
+            "name": "Victory",
+            "country": "Republic of Korea",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_O25.jpg",
+            "poster": "https://drive.google.com/open?id=1HM4LtV3kxUbGfnv7OUNisylJnv0nl2jZ/preview",
+            "documentation": "",
+            "tdv": "https://youtu.be/g5jSx9jFC6w",
+            "performance": ""
+        }
+    ],
+    "awards":[
+        {
+            "name": "Individual Team 1st Place",
+            "team": "Revenant"
+        },
+        {
+            "name": "Individual Team 2nd Place",
+            "team": "Pinguberry"
+        },
+        {
+            "name": "Individual Team 3rd Place",
+            "team": "MAGIC HUNTERS N2"
+        },
+        {
+            "name": "Best Stage Performance",
+            "team": "The time travelers"
+        },
+        {
+            "name": "Best Technical Interview",
+            "team": "Hu-More-Bot"
+        },
+        {
+            "name": "Best Technical Documentation",
+            "team": "SR DEV"
+        },
+        {
+            "name": "감동특별상",
+            "team": "Dino Nuggies"
+        }
+    ],
+    "superteams":[
+        {
+            "name": "Rock-Paper-DinoCrime",
+            "teams": [
+                "atheAmadeus",
+                "Dino Nuggies",
+                "Meiden RSP"
+            ],
+            "introduction": "",
+            "performance": "",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_ST01.jpg"
+        },
+        {
+            "name": "Skyberrdino",
+            "teams": [
+                "Dino Robotics",
+                "House of idea",
+                "Pinguberry"
+            ],
+            "introduction": "",
+            "performance": "",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_ST02.jpg"
+        },
+        {
+            "name": "GGV",
+            "teams": [
+                "GPTteam",
+                "Gymonika",
+                "Victory"
+            ],
+            "introduction": "",
+            "performance": "",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_ST03.jpg"
+        },
+        {
+            "name": "United",
+            "teams": [
+                "Hu-More-Bot",
+                "Future: Genesis",
+                "Meiden MECHA FORCE",
+                "Aquagaurdian"
+            ],
+            "introduction": "",
+            "performance": "",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_ST04.jpg"
+        },
+        {
+            "name": "Drums Galaxy",
+            "teams": [
+                "LiceBotica",
+                "Potato Cooking",
+                "RC VOLTIUM"
+            ],
+            "introduction": "",
+            "performance": "",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_ST05.jpg"
+        },
+        {
+            "name": "SR OZSHOW",
+            "teams": [
+                "OZRIT3",
+                "ROBOSHOW",
+                "SR DEV"
+            ],
+            "introduction": "",
+            "performance": "",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_ST06.jpg"
+        },
+        {
+            "name": "Kimchi",
+            "teams": [
+                "Revenant",
+                "TH(AI) Temple Fair",
+                "TRIUMPH"
+            ],
+            "introduction": "",
+            "performance": "",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_ST07.jpg"
+        },
+        {
+            "name": "ABS",
+            "teams": [
+                "The time travelers",
+                "The Pawgrammers",
+                "MAGIC HUNTERS N2"
+            ],
+            "introduction": "",
+            "performance": "",
+            "image": "_static/competitions/rcj-2026/team-photos/2026_ST08.jpg"
+        }
+    ],
+    "superteam_awards":[
+        {
+            "name":"Superteam 1st Place",
+            "superteam":"ABS"
+        }
+    ]
+}
